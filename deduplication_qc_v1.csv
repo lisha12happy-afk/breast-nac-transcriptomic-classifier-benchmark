@@ -1,0 +1,5 @@
+﻿"qc_item","value","interpretation"
+"total_manifest_rows","2936","sample-level rows parsed from selected GEO series matrices"
+"duplicate_gsm_ids","0","0 means no exact GSM duplicate across selected matrices"
+"within_dataset_patient_duplicates","1","repeated patient IDs within the same GSE; inspect before pooled patient-level analysis"
+"cross_dataset_patient_id_collisions","12","unconfirmed collisions because patient IDs are not globally unique across independent GSEs"
