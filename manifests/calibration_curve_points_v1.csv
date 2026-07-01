@@ -1,0 +1,411 @@
+dataset_accession,matrix_label,platform,analysis_set,classifier_id,classifier_score_name,score_status,calibration_bin,n,mean_predicted_probability,observed_pcr_rate,n_pcr
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,2,22,0.200030015673383,0.318181818181818,7
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,4,22,0.204860089011202,0.272727272727273,6
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,5,22,0.21131265035336,0.590909090909091,13
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,1,22,0.196021011407865,0.318181818181818,7
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,3,22,0.201981139963389,0.636363636363636,14
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,5,45,0.211073639054364,0.533333333333333,24
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,4,44,0.204747217501273,0.409090909090909,18
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,1,45,0.19692909616977,0.266666666666667,12
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,3,44,0.201817579922684,0.340909090909091,15
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,2,44,0.199572821688495,0.25,11
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,2,131,0.199871802929272,0.244274809160305,32
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,5,131,0.210403796960666,0.473282442748092,62
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,3,130,0.202400001613578,0.276923076923077,36
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,1,131,0.196141739257917,0.244274809160305,32
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,4,131,0.205368807275313,0.396946564885496,52
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,2,67,0.200047541322773,0.223880597014925,15
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,4,67,0.205085030211975,0.358208955223881,24
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,1,67,0.195991883150993,0.223880597014925,15
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,5,67,0.210368620620843,0.507462686567164,34
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,3,66,0.202694486598024,0.257575757575758,17
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,4,35,0.204895517213479,0.2,7
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,2,35,0.199579419072051,0.2,7
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,1,36,0.196614007672224,0.0277777777777778,1
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,3,36,0.202121612940006,0.0833333333333333,3
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,5,36,0.210950742253807,0.222222222222222,8
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,1,98,0.196120520966481,0.13265306122449,13
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,2,97,0.200021965507268,0.216494845360825,21
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,3,98,0.202272237947212,0.255102040816327,25
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,4,97,0.205067507655952,0.195876288659794,19
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,5,98,0.210855415608693,0.214285714285714,21
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,3,23,0.202818273185195,0.173913043478261,4
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,2,23,0.200021351166767,0.260869565217391,6
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,4,23,0.205742895076202,0.260869565217391,6
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,5,23,0.210314079899047,0.391304347826087,9
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,1,23,0.195313738209474,0.0869565217391304,2
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,3,51,0.202618458148934,0.274509803921569,14
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,5,51,0.21143252354721,0.411764705882353,21
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,4,50,0.205803689974881,0.42,21
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,1,51,0.195800538998986,0.117647058823529,6
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,2,50,0.19984640172812,0.14,7
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,3,31,0.201866702959514,0.32258064516129,10
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,5,31,0.210967253084177,0.387096774193548,12
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,4,31,0.204683438420378,0.32258064516129,10
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,2,31,0.199451782442711,0.419354838709677,13
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,1,32,0.197380628611882,0.25,8
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,5,18,0.210066904875142,0.333333333333333,6
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,3,18,0.202578441564542,0.277777777777778,5
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,1,18,0.195319277122756,0.222222222222222,4
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,4,17,0.206262193985388,0.470588235294118,8
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,CYTOLYTIC_ACTIVITY_2,Cytolytic activity mean z score,scored_preferred_coverage,2,17,0.200015614253268,0.235294117647059,4
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,4,21,0.243562171415167,0.571428571428571,12
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,3,21,0.179986353397974,0.333333333333333,7
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,2,21,0.143332532129805,0.428571428571429,9
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,1,22,0.0909901517733349,0.318181818181818,7
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,5,22,0.330284358056597,0.5,11
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,5,45,0.292633111197021,0.422222222222222,19
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,3,44,0.192923826209794,0.454545454545455,20
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,2,44,0.146182840802141,0.295454545454545,13
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,1,45,0.0933635151665437,0.133333333333333,6
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,4,44,0.23599227960655,0.5,22
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,5,131,0.326424993708422,0.427480916030534,56
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,2,131,0.14793758748519,0.343511450381679,45
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,1,131,0.0803703053644117,0.106870229007634,14
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,3,130,0.192236570736523,0.361538461538462,47
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,4,131,0.242192619273355,0.396946564885496,52
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,2,67,0.143730483408113,0.298507462686567,20
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,3,66,0.191755100667276,0.333333333333333,22
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,1,67,0.082801658982616,0.119402985074627,8
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,4,67,0.243457864437862,0.432835820895522,29
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,5,67,0.323539270864682,0.388059701492537,26
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,5,36,0.349687910819,0.194444444444444,7
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,1,36,0.079683230049526,0.0555555555555556,2
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,4,35,0.249006077823361,0.171428571428571,6
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,2,35,0.13315868251808,0.114285714285714,4
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,3,36,0.187221098624297,0.194444444444444,7
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,1,98,0.0730754120583826,0.0612244897959184,6
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,4,97,0.256938879335115,0.278350515463918,27
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,3,98,0.194163581273134,0.285714285714286,28
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,2,97,0.131119965279402,0.0927835051546392,9
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,5,98,0.35886603380419,0.295918367346939,29
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,5,23,0.369103162480821,0.260869565217391,6
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,3,23,0.19593416147589,0.260869565217391,6
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,4,23,0.248924184044791,0.521739130434783,12
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,1,23,0.0686233668615617,0,0
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,2,23,0.13411830703434,0.130434782608696,3
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,4,50,0.258753855653693,0.28,14
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,5,51,0.336431813907508,0.333333333333333,17
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,3,51,0.205848305192743,0.352941176470588,18
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,2,50,0.134999599816254,0.22,11
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,1,51,0.0625747077061161,0.176470588235294,9
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,2,31,0.145034952780314,0.387096774193548,12
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,5,31,0.315032956473684,0.354838709677419,11
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,3,31,0.187937129689936,0.32258064516129,10
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,1,32,0.0931831871304624,0.09375,3
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,4,31,0.232388711137106,0.548387096774194,17
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,2,17,0.142213583837368,0.176470588235294,3
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,5,18,0.332930502859618,0.388888888888889,7
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,4,17,0.24472077670061,0.294117647058824,5
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,1,18,0.0775009424302243,0.277777777777778,5
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,ENDOPREDICT_11,EndoPredict approximate weighted expression score,scored_preferred_coverage,3,18,0.201687506925513,0.388888888888889,7
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,2,21,0.147946063621659,0.380952380952381,8
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,3,21,0.194134045505566,0.333333333333333,7
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,4,21,0.237641618937553,0.428571428571429,9
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,1,21,0.107644560408819,0.523809523809524,11
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,5,21,0.326353072221362,0.428571428571429,9
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,3,44,0.192757693692451,0.386363636363636,17
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,2,44,0.163317150347197,0.25,11
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,4,44,0.224707312630937,0.431818181818182,19
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,1,45,0.123562713319819,0.266666666666667,12
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,5,45,0.281990722479879,0.466666666666667,21
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,2,131,0.146834182192348,0.351145038167939,46
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,1,131,0.105705153228979,0.274809160305344,36
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,4,131,0.237039363355407,0.305343511450382,40
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,5,131,0.343630973921632,0.32824427480916,43
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,3,130,0.186530690720966,0.376923076923077,49
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,4,56,0.232249192524629,0.375,21
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,2,56,0.149047562798253,0.303571428571429,17
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,3,56,0.185213272917958,0.410714285714286,23
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,1,57,0.103436147739599,0.263157894736842,15
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,5,57,0.322795038835318,0.175438596491228,10
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,5,36,0.338047638164229,0.194444444444444,7
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,1,36,0.113701645583217,0.111111111111111,4
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,2,35,0.14842314510522,0.142857142857143,5
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,3,36,0.18175174194015,0.166666666666667,6
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,4,35,0.228763098333933,0.114285714285714,4
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,5,98,0.321314800518927,0.326530612244898,32
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,2,97,0.156609045046371,0.11340206185567,11
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,4,97,0.236506708502231,0.288659793814433,28
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,3,98,0.189461235092502,0.193877551020408,19
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,1,98,0.110323677716066,0.0918367346938776,9
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,5,23,0.344281317302417,0.304347826086957,7
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,3,23,0.184112999854462,0.391304347826087,9
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,2,23,0.142568245818143,0.260869565217391,6
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,4,23,0.243226459754051,0.130434782608696,3
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,1,23,0.105968383412366,0.0869565217391304,2
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,5,51,0.337246684343208,0.352941176470588,18
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,4,50,0.246135601316312,0.34,17
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,2,50,0.145711852408771,0.22,11
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,3,51,0.194086748133983,0.235294117647059,12
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,1,51,0.0947349820956542,0.215686274509804,11
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,1,32,0.133707735639237,0.28125,9
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,4,31,0.219079660185852,0.32258064516129,10
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,5,31,0.28803304976036,0.387096774193548,12
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,2,31,0.161150121412069,0.32258064516129,10
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,3,31,0.183970842953305,0.387096774193548,12
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,2,17,0.160533041435342,0.352941176470588,6
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,3,18,0.188408640567825,0.222222222222222,4
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,4,17,0.22363751410796,0.411764705882353,7
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,5,18,0.287799607040711,0.277777777777778,5
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,GENE76,Wang 76-gene weighted risk score,scored_preferred_coverage,1,18,0.126106753504028,0.277777777777778,5
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,3,22,0.164562986292933,0.363636363636364,8
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,5,22,0.417586715468444,0.590909090909091,13
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,1,22,0.0519983515508863,0.363636363636364,8
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,4,22,0.243071254347079,0.5,11
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,2,22,0.109460636777866,0.318181818181818,7
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,5,45,0.35237701647005,0.555555555555556,25
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,2,44,0.119491549639116,0.386363636363636,17
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,4,44,0.231754278537604,0.477272727272727,21
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,1,45,0.0574916333162569,0.133333333333333,6
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,3,44,0.173915369002228,0.25,11
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,3,130,0.172756164471405,0.338461538461539,44
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,5,131,0.418499541442108,0.480916030534351,63
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,1,131,0.0473166276083401,0.122137404580153,16
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,2,131,0.105021511747289,0.32824427480916,43
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,4,131,0.250135376968306,0.366412213740458,48
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,3,66,0.162485401181617,0.393939393939394,26
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,2,67,0.105002887101589,0.238805970149254,16
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,4,67,0.254829193431059,0.388059701492537,26
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,5,67,0.434355008629708,0.402985074626866,27
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,1,67,0.0480796722552104,0.149253731343284,10
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,5,36,0.398401806472699,0.25,9
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,1,36,0.0612716742702907,0.0555555555555556,2
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,4,35,0.224453437156134,0.142857142857143,5
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,2,35,0.107701011949858,0.142857142857143,5
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,3,36,0.157377300395325,0.138888888888889,5
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,2,97,0.101402528843623,0.0515463917525773,5
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,1,98,0.0451921694684247,0.0612244897959184,6
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,5,98,0.42259376203757,0.408163265306122,40
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,4,97,0.265236951645036,0.278350515463918,27
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,3,98,0.179519888827293,0.214285714285714,21
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,4,23,0.290382301031305,0.304347826086957,7
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,5,23,0.489145800166269,0.434782608695652,10
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,3,23,0.161604516243064,0.304347826086957,7
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,1,23,0.0372718628340252,0.0434782608695652,1
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,2,23,0.0937206687812212,0.0869565217391304,2
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,4,50,0.310559161364262,0.38,19
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,5,51,0.501639236628737,0.352941176470588,18
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,3,51,0.184456152721017,0.294117647058824,15
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,2,50,0.0858671934470172,0.2,10
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,1,51,0.0272633818606462,0.137254901960784,7
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,3,31,0.160346113173122,0.451612903225806,14
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,5,31,0.341834600330246,0.354838709677419,11
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,4,31,0.214491756347771,0.387096774193548,12
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,2,31,0.122144199683408,0.258064516129032,8
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,1,32,0.0741273870078564,0.25,8
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,2,17,0.11126131372215,0.117647058823529,2
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,4,17,0.261956512102056,0.352941176470588,6
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,3,18,0.180524645961906,0.333333333333333,6
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,5,18,0.397246022955498,0.388888888888889,7
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,GGI_128_PROBE,GGI grade-3 minus grade-1 expression score,scored_preferred_coverage,1,18,0.0483530602629433,0.333333333333333,6
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,3,22,0.195354836586526,0.590909090909091,13
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,4,22,0.228305260610599,0.318181818181818,7
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,5,22,0.313763892932745,0.545454545454545,12
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,1,22,0.127445431987439,0.318181818181818,7
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,2,22,0.162075911923387,0.363636363636364,8
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,5,45,0.318611174850722,0.6,27
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,4,44,0.230032908172368,0.386363636363636,17
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,1,45,0.127635766244708,0.2,9
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,2,44,0.161324960204414,0.25,11
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,3,44,0.190023928785231,0.363636363636364,16
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,4,131,0.237456611100131,0.458015267175573,60
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,5,131,0.305909127232144,0.480916030534351,63
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,2,131,0.161275680216455,0.229007633587786,30
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,1,131,0.125202515178782,0.152671755725191,20
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,3,130,0.196241339284654,0.315384615384615,41
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,2,67,0.163656563047079,0.223880597014925,15
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,4,67,0.23772917189502,0.358208955223881,24
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,1,67,0.123587333282233,0.17910447761194,12
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,5,67,0.30102966731369,0.507462686567164,34
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,3,66,0.200006167142024,0.303030303030303,20
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,5,36,0.276494293753595,0.25,9
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,1,36,0.143878891064256,0.0555555555555556,2
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,3,36,0.191837417780881,0.0833333333333333,3
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,4,35,0.222138901462788,0.314285714285714,11
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,2,35,0.175018732639067,0.0285714285714286,1
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,1,98,0.138207797985742,0.173469387755102,17
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,4,97,0.229965795113705,0.247422680412371,24
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,5,98,0.288338328323253,0.285714285714286,28
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,2,97,0.164632615782733,0.103092783505155,10
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,3,98,0.193086058824782,0.204081632653061,20
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,3,23,0.195114474402254,0.173913043478261,4
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,4,23,0.233250072498153,0.173913043478261,4
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,5,23,0.302499608293062,0.521739130434783,12
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,1,23,0.128033224840055,0.0434782608695652,1
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,2,23,0.164357332603718,0.260869565217391,6
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,4,50,0.23772470486404,0.48,24
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,5,51,0.319331345461094,0.392156862745098,20
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,1,51,0.13040530321027,0.117647058823529,6
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,3,51,0.191169313926712,0.235294117647059,12
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,2,50,0.160640787845722,0.14,7
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,3,31,0.19181855587007,0.354838709677419,11
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,5,31,0.265864270886285,0.387096774193548,12
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,4,31,0.219448808671244,0.387096774193548,12
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,1,32,0.15457187264496,0.25,8
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,2,31,0.172864793700575,0.32258064516129,10
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,5,18,0.303941864792849,0.388888888888889,7
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,4,17,0.232375335647416,0.470588235294118,8
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,2,17,0.163876255537181,0.294117647058824,5
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,3,18,0.196736483310696,0.222222222222222,4
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,IFNG_18,IFN-gamma 18-gene mean z score,scored_preferred_coverage,1,18,0.126364287088528,0.166666666666667,3
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,3,21,0.148585606466447,0.333333333333333,7
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,2,21,0.102545160211515,0.380952380952381,8
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,5,22,0.391784351180853,0.545454545454545,12
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,1,22,0.0567469241894511,0.409090909090909,9
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,4,21,0.226317533283106,0.476190476190476,10
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,5,45,0.52077315938402,0.555555555555556,25
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,3,44,0.159870465586183,0.363636363636364,16
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,4,44,0.28166850425787,0.431818181818182,19
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,2,44,0.0757205791505865,0.272727272727273,12
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,1,45,0.0350362169923394,0.177777777777778,8
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,4,130,0.273115496514452,0.407692307692308,53
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,1,131,0.0400335391198833,0.122137404580153,16
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,2,130,0.0857902733928309,0.323076923076923,42
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,3,130,0.149034222523507,0.384615384615385,50
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,5,130,0.482142727459693,0.392307692307692,51
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,1,66,0.0433642689762239,0.181818181818182,12
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,2,65,0.0850144124040131,0.215384615384615,14
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,5,66,0.455729389002776,0.378787878787879,25
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,4,65,0.269293948487412,0.415384615384615,27
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,3,66,0.152565492680631,0.393939393939394,26
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,5,36,0.428394838869446,0.277777777777778,10
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,2,35,0.100078614361836,0,0
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,4,35,0.212929632015119,0.2,7
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,1,36,0.0566811300040276,0.138888888888889,5
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,3,36,0.14529157478538,0.111111111111111,4
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,2,97,0.0858207771726628,0.0309278350515464,3
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,1,98,0.0445527769795505,0.0510204081632653,5
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,5,98,0.46482362830663,0.448979591836735,44
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,3,98,0.151689982283364,0.193877551020408,19
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,4,97,0.266916274561689,0.288659793814433,28
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,3,23,0.147567269131671,0.217391304347826,5
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,5,23,0.488641673932626,0.434782608695652,10
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,2,23,0.0938688172900977,0.173913043478261,4
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,1,23,0.0435545903955212,0.0434782608695652,1
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,4,23,0.230276140658357,0.304347826086957,7
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,5,51,0.520461136383829,0.411764705882353,21
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,4,50,0.316924223071276,0.34,17
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,3,51,0.146358871223247,0.294117647058824,15
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,2,50,0.0684381276110136,0.16,8
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_low_coverage_exploratory,1,51,0.0308184642599658,0.156862745098039,8
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,5,31,0.393766415890724,0.451612903225806,14
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,4,31,0.218260765060032,0.290322580645161,9
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,3,31,0.144321035126994,0.387096774193548,12
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,2,31,0.106536981167951,0.354838709677419,11
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,1,32,0.0617958287112034,0.21875,7
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,2,17,0.111411247411704,0.235294117647059,4
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,4,17,0.240334549224823,0.352941176470588,6
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,3,18,0.156535121588155,0.277777777777778,5
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,1,18,0.0537776612644056,0.333333333333333,6
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,MAMMAPRINT_70,MammaPrint approximate poor-prognosis score,scored_preferred_coverage,5,18,0.403464036584533,0.333333333333333,6
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,34,0.131679586381101,0.5,17
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,35,0.190197758638386,0.628571428571429,22
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,34,0.272360999526137,0.588235294117647,20
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,35,0.376413109799821,0.714285714285714,25
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,35,0.0514144886370723,0.542857142857143,19
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,21,0.261476916656243,0.380952380952381,8
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,21,0.119879935626899,0.380952380952381,8
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,22,0.0557108679136674,0.227272727272727,5
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,22,0.172929007740178,0.545454545454545,12
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,22,0.408611535172906,0.590909090909091,13
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,44,0.254501829016294,0.5,22
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,45,0.397191682380092,0.555555555555556,25
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,44,0.112948038252531,0.204545454545455,9
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,44,0.185236443566118,0.409090909090909,18
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,45,0.054532002680996,0.133333333333333,6
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,130,0.183055714357948,0.307692307692308,40
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,131,0.247239534272756,0.473282442748092,62
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,131,0.0592483078387155,0.0916030534351145,12
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,131,0.367469612570443,0.526717557251908,69
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,131,0.125542651947079,0.236641221374046,31
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,67,0.128335186231154,0.238805970149254,16
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,67,0.354041069212005,0.462686567164179,31
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,67,0.24428557279043,0.402985074626866,27
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,66,0.18393217685785,0.378787878787879,25
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,67,0.0619032115198548,0.0895522388059701,6
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,36,0.38940401066253,0.25,9
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,36,0.0609065650817949,0.0555555555555556,2
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,35,0.245752454659142,0.114285714285714,4
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,35,0.124970693276542,0.0857142857142857,3
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,36,0.176174845781285,0.222222222222222,8
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,97,0.116177910876968,0.0927835051546392,9
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,98,0.0533947813012222,0.0612244897959184,6
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,98,0.394656790073369,0.397959183673469,39
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,98,0.187736194950221,0.204081632653061,20
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,97,0.262098366444434,0.257731958762887,25
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,23,0.27616852433318,0.173913043478261,4
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,23,0.20113783440037,0.391304347826087,9
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,23,0.107847307541364,0.0869565217391304,2
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,23,0.435587517884176,0.478260869565217,11
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,23,0.0444562948792957,0.0434782608695652,1
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,50,0.280044115076339,0.26,13
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,51,0.43259720573067,0.431372549019608,22
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,50,0.0987164065225951,0.18,9
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,51,0.0420895976299735,0.196078431372549,10
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,51,0.190797383763124,0.294117647058824,15
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,31,0.233651921160675,0.516129032258065,16
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,31,0.365568169928936,0.419354838709677,13
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,31,0.131155559014324,0.32258064516129,10
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,32,0.0661282221855982,0.09375,3
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,31,0.177060874064367,0.354838709677419,11
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,2,17,0.110095060383462,0.176470588235294,3
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,3,18,0.200698958649723,0.333333333333333,6
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,5,18,0.427094511535212,0.388888888888889,7
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,4,17,0.283072803071571,0.352941176470588,6
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,ONCOTYPE_DX_21,OncotypeDX approximate weighted expression score,scored_preferred_coverage,1,18,0.0459517675066647,0.277777777777778,5
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,35,0.296484279835225,0.714285714285714,25
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,35,0.175228359027682,0.657142857142857,23
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,34,0.11706238179799,0.588235294117647,20
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,35,0.0686437075129525,0.4,14
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,34,0.226474590924729,0.617647058823529,21
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,22,0.331083569251978,0.590909090909091,13
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,22,0.0631761572289348,0.272727272727273,6
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,22,0.237707472390246,0.5,11
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,22,0.155915164188699,0.363636363636364,8
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,22,0.105126431746385,0.409090909090909,9
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,45,0.419942894062571,0.6,27
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,44,0.319178433398734,0.409090909090909,18
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,45,0.0503447283752201,0.133333333333333,6
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,44,0.105701241825632,0.227272727272727,10
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,44,0.199360304133883,0.431818181818182,19
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,130,0.203191459905938,0.469230769230769,61
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,131,0.321740700962895,0.404580152671756,53
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,131,0.0578185536787113,0.152671755725191,20
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,131,0.110334393123205,0.152671755725191,20
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,131,0.424135157550852,0.458015267175573,60
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,67,0.111443302351654,0.223880597014925,15
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,67,0.326080932766,0.507462686567164,34
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,66,0.20258995678821,0.303030303030303,20
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,67,0.0581474670797374,0.104477611940299,7
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,67,0.434759087537357,0.432835820895522,29
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,36,0.3831164585702,0.25,9
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,36,0.0540111420690705,0.0555555555555556,2
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,35,0.0983078112061846,0.0571428571428571,2
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,36,0.147184963755852,0.166666666666667,6
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,35,0.249420880619162,0.2,7
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,98,0.0461732541070981,0.0408163265306122,4
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,97,0.294619556862576,0.309278350515464,30
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,98,0.416144274741773,0.418367346938776,41
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,98,0.159790578062419,0.163265306122449,16
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,97,0.09747740728957,0.0824742268041237,8
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,23,0.146305120176368,0.173913043478261,4
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,23,0.41582385075263,0.391304347826087,9
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,23,0.0405489569564004,0,0
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,23,0.244438390070454,0.434782608695652,10
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,23,0.092444349477383,0.173913043478261,4
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,51,0.428920629819665,0.411764705882353,21
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,50,0.3256241647882,0.36,18
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,51,0.195310819234335,0.254901960784314,13
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,50,0.0894460632649986,0.2,10
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,51,0.032905408218037,0.137254901960784,7
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,31,0.129292091052805,0.32258064516129,10
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,31,0.336750524404675,0.387096774193548,12
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,31,0.236694962540253,0.516129032258065,16
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,31,0.179543734234227,0.354838709677419,11
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,32,0.0726841631959937,0.125,4
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,2,17,0.105453831659884,0.176470588235294,3
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,3,18,0.165650660030628,0.388888888888889,7
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,5,18,0.346906753492083,0.388888888888889,7
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,1,18,0.0551045414065279,0.222222222222222,4
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,PAM50,PAM50 non-luminal affinity score,scored_preferred_coverage,4,17,0.246762265624817,0.352941176470588,6
