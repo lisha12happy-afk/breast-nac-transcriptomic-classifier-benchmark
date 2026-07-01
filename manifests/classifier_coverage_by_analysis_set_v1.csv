@@ -1,0 +1,33 @@
+classifier_id,classifier_name,analysis_set,n_matrices_audited,min_coverage_pct,median_coverage_pct,n_matrices_usable_or_better,matrices_below_80pct
+CYTOLYTIC_ACTIVITY_2,Cytolytic activity score,core_full_benchmark,7,100,100,7,""
+CYTOLYTIC_ACTIVITY_2,Cytolytic activity score,large_stress_test,2,100,100,2,""
+CYTOLYTIC_ACTIVITY_2,Cytolytic activity score,limited_subtype_panel_or_gene_space,2,0,0,0,GSE106977_GPL17586;GSE109710_GPL24546
+CYTOLYTIC_ACTIVITY_2,Cytolytic activity score,subtype_validation_only,1,100,100,1,""
+ENDOPREDICT_11,EndoPredict 11-gene set,core_full_benchmark,7,100,100,7,""
+ENDOPREDICT_11,EndoPredict 11-gene set,large_stress_test,2,100,100,2,""
+ENDOPREDICT_11,EndoPredict 11-gene set,limited_subtype_panel_or_gene_space,2,0,9.1,0,GSE106977_GPL17586;GSE109710_GPL24546
+ENDOPREDICT_11,EndoPredict 11-gene set,subtype_validation_only,1,90.9,90.9,1,""
+GENE76,Wang 76-gene distant-metastasis signature,core_full_benchmark,7,84.5,84.5,7,""
+GENE76,Wang 76-gene distant-metastasis signature,large_stress_test,2,82.8,83.65,2,""
+GENE76,Wang 76-gene distant-metastasis signature,limited_subtype_panel_or_gene_space,2,0,6.05,0,GSE106977_GPL17586;GSE109710_GPL24546
+GENE76,Wang 76-gene distant-metastasis signature,subtype_validation_only,1,82.8,82.8,1,""
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,core_full_benchmark,7,90.9,90.9,7,""
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,large_stress_test,2,90.9,90.9,2,""
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,limited_subtype_panel_or_gene_space,2,0,13.65,0,GSE106977_GPL17586;GSE109710_GPL24546
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,subtype_validation_only,1,89.9,89.9,1,""
+IFNG_18,IFN-gamma-related 18-gene immune profile,core_full_benchmark,7,88.9,100,7,""
+IFNG_18,IFN-gamma-related 18-gene immune profile,large_stress_test,2,100,100,2,""
+IFNG_18,IFN-gamma-related 18-gene immune profile,limited_subtype_panel_or_gene_space,2,0,22.2,0,GSE106977_GPL17586;GSE109710_GPL24546
+IFNG_18,IFN-gamma-related 18-gene immune profile,subtype_validation_only,1,100,100,1,""
+MAMMAPRINT_70,MammaPrint / 70-gene signature,core_full_benchmark,7,72.5,82.4,4,GSE20271_GPL96;GSE25066_GPL96;GSE41998_GPL571
+MAMMAPRINT_70,MammaPrint / 70-gene signature,large_stress_test,2,84.3,84.3,2,""
+MAMMAPRINT_70,MammaPrint / 70-gene signature,limited_subtype_panel_or_gene_space,2,0,10.8,0,GSE106977_GPL17586;GSE109710_GPL24546
+MAMMAPRINT_70,MammaPrint / 70-gene signature,subtype_validation_only,1,82.4,82.4,1,""
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,core_full_benchmark,7,100,100,7,""
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,large_stress_test,2,100,100,2,""
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,limited_subtype_panel_or_gene_space,2,0,50,1,GSE106977_GPL17586
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,subtype_validation_only,1,100,100,1,""
+PAM50,PAM50 intrinsic subtype classifier,core_full_benchmark,7,86,96,7,""
+PAM50,PAM50 intrinsic subtype classifier,large_stress_test,2,96,96,2,""
+PAM50,PAM50 intrinsic subtype classifier,limited_subtype_panel_or_gene_space,2,0,50,1,GSE106977_GPL17586
+PAM50,PAM50 intrinsic subtype classifier,subtype_validation_only,1,94,94,1,""
