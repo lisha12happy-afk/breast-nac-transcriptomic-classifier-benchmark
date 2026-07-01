@@ -1,0 +1,9 @@
+classifier_id,classifier_name,n_matrices_audited,min_coverage_pct,median_coverage_pct,n_matrices_excellent,n_matrices_usable_or_better,matrices_below_80pct,n_source_rows_total,n_source_rows_with_harmonized_gene_symbol,n_unique_harmonized_genes
+CYTOLYTIC_ACTIVITY_2,Cytolytic activity score,12,0,100,10,10,GSE106977_GPL17586;GSE109710_GPL24546,2,2,2
+ENDOPREDICT_11,EndoPredict 11-gene set,12,0,100,9,10,GSE106977_GPL17586;GSE109710_GPL24546,11,11,11
+GENE76,Wang 76-gene distant-metastasis signature,12,0,84.5,0,10,GSE106977_GPL17586;GSE109710_GPL24546,76,61,58
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,12,0,90.9,0,10,GSE106977_GPL17586;GSE109710_GPL24546,128,112,99
+IFNG_18,IFN-gamma-related 18-gene immune profile,12,0,100,7,10,GSE106977_GPL17586;GSE109710_GPL24546,18,18,18
+MAMMAPRINT_70,MammaPrint / 70-gene signature,12,0,82.4,0,7,GSE106977_GPL17586;GSE109710_GPL24546;GSE20271_GPL96;GSE25066_GPL96;GSE41998_GPL571,70,55,51
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,12,0,100,11,11,GSE106977_GPL17586,21,21,21
+PAM50,PAM50 intrinsic subtype classifier,12,0,96,7,11,GSE106977_GPL17586,50,50,50

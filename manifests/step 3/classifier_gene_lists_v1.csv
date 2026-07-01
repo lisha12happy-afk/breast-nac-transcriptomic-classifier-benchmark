@@ -1,0 +1,377 @@
+classifier_id,classifier_name,gene_symbol_original,gene_symbol_harmonized,gene_role,weight,source_probe,source_object,source_note,row_in_classifier_source
+PAM50,PAM50 intrinsic subtype classifier,ACTR3B,ACTR3B,,,ACTR3B,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,1
+PAM50,PAM50 intrinsic subtype classifier,ANLN,ANLN,,,ANLN,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,2
+PAM50,PAM50 intrinsic subtype classifier,BAG1,BAG1,,,BAG1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,3
+PAM50,PAM50 intrinsic subtype classifier,BCL2,BCL2,,,BCL2,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,4
+PAM50,PAM50 intrinsic subtype classifier,BIRC5,BIRC5,,,BIRC5,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,5
+PAM50,PAM50 intrinsic subtype classifier,BLVRA,BLVRA,,,BLVRA,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,6
+PAM50,PAM50 intrinsic subtype classifier,CCNB1,CCNB1,,,CCNB1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,7
+PAM50,PAM50 intrinsic subtype classifier,CCNE1,CCNE1,,,CCNE1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,8
+PAM50,PAM50 intrinsic subtype classifier,CDC20,CDC20,,,CDC20,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,9
+PAM50,PAM50 intrinsic subtype classifier,CDC6,CDC6,,,CDC6,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,10
+PAM50,PAM50 intrinsic subtype classifier,CDCA1,CDCA1,,,CDCA1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,11
+PAM50,PAM50 intrinsic subtype classifier,CDH3,CDH3,,,CDH3,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,12
+PAM50,PAM50 intrinsic subtype classifier,CENPF,CENPF,,,CENPF,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,13
+PAM50,PAM50 intrinsic subtype classifier,CEP55,CEP55,,,CEP55,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,14
+PAM50,PAM50 intrinsic subtype classifier,CXXC5,CXXC5,,,CXXC5,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,15
+PAM50,PAM50 intrinsic subtype classifier,EGFR,EGFR,,,EGFR,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,16
+PAM50,PAM50 intrinsic subtype classifier,ERBB2,ERBB2,,,ERBB2,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,17
+PAM50,PAM50 intrinsic subtype classifier,ESR1,ESR1,,,ESR1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,18
+PAM50,PAM50 intrinsic subtype classifier,EXO1,EXO1,,,EXO1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,19
+PAM50,PAM50 intrinsic subtype classifier,FGFR4,FGFR4,,,FGFR4,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,20
+PAM50,PAM50 intrinsic subtype classifier,FOXA1,FOXA1,,,FOXA1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,21
+PAM50,PAM50 intrinsic subtype classifier,FOXC1,FOXC1,,,FOXC1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,22
+PAM50,PAM50 intrinsic subtype classifier,GPR160,GPR160,,,GPR160,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,23
+PAM50,PAM50 intrinsic subtype classifier,GRB7,GRB7,,,GRB7,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,24
+PAM50,PAM50 intrinsic subtype classifier,KIF2C,KIF2C,,,KIF2C,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,25
+PAM50,PAM50 intrinsic subtype classifier,KNTC2,KNTC2,,,KNTC2,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,26
+PAM50,PAM50 intrinsic subtype classifier,KRT14,KRT14,,,KRT14,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,27
+PAM50,PAM50 intrinsic subtype classifier,KRT17,KRT17,,,KRT17,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,28
+PAM50,PAM50 intrinsic subtype classifier,KRT5,KRT5,,,KRT5,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,29
+PAM50,PAM50 intrinsic subtype classifier,MAPT,MAPT,,,MAPT,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,30
+PAM50,PAM50 intrinsic subtype classifier,MDM2,MDM2,,,MDM2,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,31
+PAM50,PAM50 intrinsic subtype classifier,MELK,MELK,,,MELK,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,32
+PAM50,PAM50 intrinsic subtype classifier,MIA,MIA,,,MIA,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,33
+PAM50,PAM50 intrinsic subtype classifier,MKI67,MKI67,,,MKI67,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,34
+PAM50,PAM50 intrinsic subtype classifier,MLPH,MLPH,,,MLPH,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,35
+PAM50,PAM50 intrinsic subtype classifier,MMP11,MMP11,,,MMP11,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,36
+PAM50,PAM50 intrinsic subtype classifier,MYBL2,MYBL2,,,MYBL2,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,37
+PAM50,PAM50 intrinsic subtype classifier,MYC,MYC,,,MYC,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,38
+PAM50,PAM50 intrinsic subtype classifier,NAT1,NAT1,,,NAT1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,39
+PAM50,PAM50 intrinsic subtype classifier,ORC6L,ORC6,,,ORC6L,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,40
+PAM50,PAM50 intrinsic subtype classifier,PGR,PGR,,,PGR,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,41
+PAM50,PAM50 intrinsic subtype classifier,PHGDH,PHGDH,,,PHGDH,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,42
+PAM50,PAM50 intrinsic subtype classifier,PTTG1,PTTG1,,,PTTG1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,43
+PAM50,PAM50 intrinsic subtype classifier,RRM2,RRM2,,,RRM2,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,44
+PAM50,PAM50 intrinsic subtype classifier,SFRP1,SFRP1,,,SFRP1,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,45
+PAM50,PAM50 intrinsic subtype classifier,SLC39A6,SLC39A6,,,SLC39A6,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,46
+PAM50,PAM50 intrinsic subtype classifier,TMEM45B,TMEM45B,,,TMEM45B,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,47
+PAM50,PAM50 intrinsic subtype classifier,TYMS,TYMS,,,TYMS,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,48
+PAM50,PAM50 intrinsic subtype classifier,UBE2C,UBE2C,,,UBE2C,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,49
+PAM50,PAM50 intrinsic subtype classifier,UBE2T,UBE2T,,,UBE2T,genefu::pam50$centroids.map,50-gene centroid classifier from genefu source object,50
+MAMMAPRINT_70,MammaPrint / 70-gene signature,ALDH4A1,ALDH4A1,70-gene prognosis signature,,NM_003748,genefu::sig.gene70,HUGO symbol from genefu object,1
+MAMMAPRINT_70,MammaPrint / 70-gene signature,FGF18,FGF18,70-gene prognosis signature,,NM_003862,genefu::sig.gene70,HUGO symbol from genefu object,2
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,Contig32125_RC,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,3
+MAMMAPRINT_70,MammaPrint / 70-gene signature,BBC3,BBC3,70-gene prognosis signature,,U82987,genefu::sig.gene70,HUGO symbol from genefu object,4
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,AB037863,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,5
+MAMMAPRINT_70,MammaPrint / 70-gene signature,SCUBE2,SCUBE2,70-gene prognosis signature,,NM_020974,genefu::sig.gene70,HUGO symbol from genefu object,6
+MAMMAPRINT_70,MammaPrint / 70-gene signature,RUNDC1,RUNDC1,70-gene prognosis signature,,Contig55377_RC,genefu::sig.gene70,HUGO symbol from genefu object,7
+MAMMAPRINT_70,MammaPrint / 70-gene signature,WISP1,WISP1,70-gene prognosis signature,,NM_003882,genefu::sig.gene70,HUGO symbol from genefu object,8
+MAMMAPRINT_70,MammaPrint / 70-gene signature,GSTM3,GSTM3,70-gene prognosis signature,,NM_000849,genefu::sig.gene70,HUGO symbol from genefu object,9
+MAMMAPRINT_70,MammaPrint / 70-gene signature,ZNF533,ZNF533,70-gene prognosis signature,,Contig48328_RC,genefu::sig.gene70,HUGO symbol from genefu object,10
+MAMMAPRINT_70,MammaPrint / 70-gene signature,RTN4RL1,RTN4RL1,70-gene prognosis signature,,Contig46223_RC,genefu::sig.gene70,HUGO symbol from genefu object,11
+MAMMAPRINT_70,MammaPrint / 70-gene signature,PECI,PECI,70-gene prognosis signature,,NM_006117,genefu::sig.gene70,HUGO symbol from genefu object,12
+MAMMAPRINT_70,MammaPrint / 70-gene signature,TGFB3,TGFB3,70-gene prognosis signature,,NM_003239,genefu::sig.gene70,HUGO symbol from genefu object,13
+MAMMAPRINT_70,MammaPrint / 70-gene signature,STK32B,STK32B,70-gene prognosis signature,,NM_018401,genefu::sig.gene70,HUGO symbol from genefu object,14
+MAMMAPRINT_70,MammaPrint / 70-gene signature,PECI,PECI,70-gene prognosis signature,,AF257175,genefu::sig.gene70,HUGO symbol from genefu object,15
+MAMMAPRINT_70,MammaPrint / 70-gene signature,MS4A7,MS4A7,70-gene prognosis signature,,AF201951,genefu::sig.gene70,HUGO symbol from genefu object,16
+MAMMAPRINT_70,MammaPrint / 70-gene signature,AP2B1,AP2B1,70-gene prognosis signature,,NM_001282,genefu::sig.gene70,HUGO symbol from genefu object,17
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,Contig63102_RC,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,18
+MAMMAPRINT_70,MammaPrint / 70-gene signature,C20orf46,C20ORF46,70-gene prognosis signature,,NM_018354,genefu::sig.gene70,HUGO symbol from genefu object,19
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,NM_007036,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,20
+MAMMAPRINT_70,MammaPrint / 70-gene signature,CCNE2,CCNE2,70-gene prognosis signature,,NM_004702,genefu::sig.gene70,HUGO symbol from genefu object,21
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,Contig2399_RC,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,22
+MAMMAPRINT_70,MammaPrint / 70-gene signature,CENPA,CENPA,70-gene prognosis signature,,NM_001809,genefu::sig.gene70,HUGO symbol from genefu object,23
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,Contig20217_RC,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,24
+MAMMAPRINT_70,MammaPrint / 70-gene signature,PRC1,PRC1,70-gene prognosis signature,,NM_003981,genefu::sig.gene70,HUGO symbol from genefu object,25
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,NM_007203,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,26
+MAMMAPRINT_70,MammaPrint / 70-gene signature,NMU,NMU,70-gene prognosis signature,,NM_006681,genefu::sig.gene70,HUGO symbol from genefu object,27
+MAMMAPRINT_70,MammaPrint / 70-gene signature,IGFBP5,IGFBP5,70-gene prognosis signature,,AF055033,genefu::sig.gene70,HUGO symbol from genefu object,28
+MAMMAPRINT_70,MammaPrint / 70-gene signature,PITRM1,PITRM1,70-gene prognosis signature,,NM_014889,genefu::sig.gene70,HUGO symbol from genefu object,29
+MAMMAPRINT_70,MammaPrint / 70-gene signature,HRASLS,HRASLS,70-gene prognosis signature,,NM_020386,genefu::sig.gene70,HUGO symbol from genefu object,30
+MAMMAPRINT_70,MammaPrint / 70-gene signature,IGFBP5,IGFBP5,70-gene prognosis signature,,NM_000599,genefu::sig.gene70,HUGO symbol from genefu object,31
+MAMMAPRINT_70,MammaPrint / 70-gene signature,C9orf30,C9ORF30,70-gene prognosis signature,,Contig56457_RC,genefu::sig.gene70,HUGO symbol from genefu object,32
+MAMMAPRINT_70,MammaPrint / 70-gene signature,MCM6,MCM6,70-gene prognosis signature,,NM_005915,genefu::sig.gene70,HUGO symbol from genefu object,33
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,Contig24252_RC,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,34
+MAMMAPRINT_70,MammaPrint / 70-gene signature,CDCA7,CDCA7,70-gene prognosis signature,,Contig55725_RC,genefu::sig.gene70,HUGO symbol from genefu object,35
+MAMMAPRINT_70,MammaPrint / 70-gene signature,RFC4,RFC4,70-gene prognosis signature,,NM_002916,genefu::sig.gene70,HUGO symbol from genefu object,36
+MAMMAPRINT_70,MammaPrint / 70-gene signature,ORC6L,ORC6,70-gene prognosis signature,,NM_014321,genefu::sig.gene70,HUGO symbol from genefu object,37
+MAMMAPRINT_70,MammaPrint / 70-gene signature,SLC2A3,SLC2A3,70-gene prognosis signature,,NM_006931,genefu::sig.gene70,HUGO symbol from genefu object,38
+MAMMAPRINT_70,MammaPrint / 70-gene signature,GPR126,GPR126,70-gene prognosis signature,,AL080079,genefu::sig.gene70,HUGO symbol from genefu object,39
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,Contig51464_RC,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,40
+MAMMAPRINT_70,MammaPrint / 70-gene signature,DCK,DCK,70-gene prognosis signature,,NM_000788,genefu::sig.gene70,HUGO symbol from genefu object,41
+MAMMAPRINT_70,MammaPrint / 70-gene signature,DTL,DTL,70-gene prognosis signature,,NM_016448,genefu::sig.gene70,HUGO symbol from genefu object,42
+MAMMAPRINT_70,MammaPrint / 70-gene signature,COL4A2,COL4A2,70-gene prognosis signature,,X05610,genefu::sig.gene70,HUGO symbol from genefu object,43
+MAMMAPRINT_70,MammaPrint / 70-gene signature,MELK,MELK,70-gene prognosis signature,,NM_014791,genefu::sig.gene70,HUGO symbol from genefu object,44
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,Contig40831_RC,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,45
+MAMMAPRINT_70,MammaPrint / 70-gene signature,MTDH,MTDH,70-gene prognosis signature,,AK000745,genefu::sig.gene70,HUGO symbol from genefu object,46
+MAMMAPRINT_70,MammaPrint / 70-gene signature,UCHL5,UCHL5,70-gene prognosis signature,,NM_015984,genefu::sig.gene70,HUGO symbol from genefu object,47
+MAMMAPRINT_70,MammaPrint / 70-gene signature,RAB6B,RAB6B,70-gene prognosis signature,,NM_016577,genefu::sig.gene70,HUGO symbol from genefu object,48
+MAMMAPRINT_70,MammaPrint / 70-gene signature,GPR180,GPR180,70-gene prognosis signature,,Contig32185_RC,genefu::sig.gene70,HUGO symbol from genefu object,49
+MAMMAPRINT_70,MammaPrint / 70-gene signature,AYTL2,AYTL2,70-gene prognosis signature,,AF052162,genefu::sig.gene70,HUGO symbol from genefu object,50
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,AF073519,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,51
+MAMMAPRINT_70,MammaPrint / 70-gene signature,CDC42BPA,CDC42BPA,70-gene prognosis signature,,NM_003607,genefu::sig.gene70,HUGO symbol from genefu object,52
+MAMMAPRINT_70,MammaPrint / 70-gene signature,KNTC2,KNTC2,70-gene prognosis signature,,NM_006101,genefu::sig.gene70,HUGO symbol from genefu object,53
+MAMMAPRINT_70,MammaPrint / 70-gene signature,GMPS,GMPS,70-gene prognosis signature,,NM_003875,genefu::sig.gene70,HUGO symbol from genefu object,54
+MAMMAPRINT_70,MammaPrint / 70-gene signature,ECT2,ECT2,70-gene prognosis signature,,Contig25991,genefu::sig.gene70,HUGO symbol from genefu object,55
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,Contig35251_RC,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,56
+MAMMAPRINT_70,MammaPrint / 70-gene signature,MMP9,MMP9,70-gene prognosis signature,,NM_004994,genefu::sig.gene70,HUGO symbol from genefu object,57
+MAMMAPRINT_70,MammaPrint / 70-gene signature,OXCT1,OXCT1,70-gene prognosis signature,,NM_000436,genefu::sig.gene70,HUGO symbol from genefu object,58
+MAMMAPRINT_70,MammaPrint / 70-gene signature,GNAZ,GNAZ,70-gene prognosis signature,,NM_002073,genefu::sig.gene70,HUGO symbol from genefu object,59
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,NM_002019,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,60
+MAMMAPRINT_70,MammaPrint / 70-gene signature,EXT1,EXT1,70-gene prognosis signature,,NM_000127,genefu::sig.gene70,HUGO symbol from genefu object,61
+MAMMAPRINT_70,MammaPrint / 70-gene signature,C16orf61,C16ORF61,70-gene prognosis signature,,NM_020188,genefu::sig.gene70,HUGO symbol from genefu object,62
+MAMMAPRINT_70,MammaPrint / 70-gene signature,DIAPH3,DIAPH3,70-gene prognosis signature,,AL137718,genefu::sig.gene70,HUGO symbol from genefu object,63
+MAMMAPRINT_70,MammaPrint / 70-gene signature,DIAPH3,DIAPH3,70-gene prognosis signature,,Contig28552_RC,genefu::sig.gene70,HUGO symbol from genefu object,64
+MAMMAPRINT_70,MammaPrint / 70-gene signature,QSCN6L1,QSCN6L1,70-gene prognosis signature,,Contig38288_RC,genefu::sig.gene70,HUGO symbol from genefu object,65
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,AA555029_RC,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,66
+MAMMAPRINT_70,MammaPrint / 70-gene signature,NUSAP1,NUSAP1,70-gene prognosis signature,,NM_016359,genefu::sig.gene70,HUGO symbol from genefu object,67
+MAMMAPRINT_70,MammaPrint / 70-gene signature,DIAPH3,DIAPH3,70-gene prognosis signature,,Contig46218_RC,genefu::sig.gene70,HUGO symbol from genefu object,68
+MAMMAPRINT_70,MammaPrint / 70-gene signature,,,70-gene prognosis signature,,Contig63649_RC,genefu::sig.gene70,No HUGO symbol in genefu object; cannot audit by gene symbol,69
+MAMMAPRINT_70,MammaPrint / 70-gene signature,TSPYL5,TSPYL5,70-gene prognosis signature,,AL080059,genefu::sig.gene70,HUGO symbol from genefu object,70
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,MKI67,MKI67,proliferation,0.208,212022_s_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,1
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,AURKA,AURKA,proliferation,0.208,208079_s_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,2
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,BIRC5,BIRC5,proliferation,0.208,202095_s_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,3
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,CCNB1,CCNB1,proliferation,0.208,214710_s_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,4
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,MYBL2,MYBL2,proliferation,0.208,201710_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,5
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,MMP11,MMP11,invasion,0.05,203876_s_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,6
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,CTSL2,CTSV,invasion,0.05,210074_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,7
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,GRB7,GRB7,her2,0.423,210761_s_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,8
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,ERBB2,ERBB2,her2,0.047,216836_s_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,9
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,ESR1,ESR1,estrogen,-0.068,205225_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,10
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,PGR,PGR,estrogen,-0.102,208305_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,11
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,BCL2,BCL2,estrogen,-0.085,203684_s_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,12
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,SCUBE2,SCUBE2,estrogen,-0.085,219197_s_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,13
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,GSTM1,GSTM1,undefined,-0.08,204550_x_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,14
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,CD68,CD68,undefined,0.05,203507_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,15
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,BAG1,BAG1,undefined,-0.07,202387_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,16
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,ACTB,ACTB,reference,,AFFX-HSAC07/X00351_5_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,17
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,GAPDH,GAPDH,reference,,AFFX-HUMGAPDH/M33197_5_at,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,18
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,RPLP0,RPLP0,reference,,,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,19
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,GUSB,GUSB,reference,,,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,20
+ONCOTYPE_DX_21,Oncotype DX 21-gene recurrence score gene set,TFRC,TFRC,reference,,,genefu::sig.oncotypedx,Gene set and group weights from genefu object; commercial assay algorithm is not reconstructed,21
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KPNA2,KPNA2,grade_3,,201088_at,genefu::sig.ggi,HUGO symbol from genefu object,1
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,201090_x_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,2
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,SLC7A5,SLC7A5,grade_3,,201195_s_at,genefu::sig.ggi,HUGO symbol from genefu object,3
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MARS,MARS,grade_3,,201475_x_at,genefu::sig.ggi,HUGO symbol from genefu object,4
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,UBE2N,UBE2N,grade_3,,201524_x_at,genefu::sig.ggi,HUGO symbol from genefu object,5
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,DDX39,DDX39,grade_3,,201584_s_at,genefu::sig.ggi,HUGO symbol from genefu object,6
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MYBL2,MYBL2,grade_3,,201710_at,genefu::sig.ggi,HUGO symbol from genefu object,7
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,201890_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,8
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,BIRC5,BIRC5,grade_3,,202094_at,genefu::sig.ggi,HUGO symbol from genefu object,9
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,BIRC5,BIRC5,grade_3,,202095_s_at,genefu::sig.ggi,HUGO symbol from genefu object,10
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MCM2,MCM2,grade_3,,202107_s_at,genefu::sig.ggi,HUGO symbol from genefu object,11
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,PLK1,PLK1,grade_3,,202240_at,genefu::sig.ggi,HUGO symbol from genefu object,12
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,FOXM1,FOXM1,grade_3,,202580_x_at,genefu::sig.ggi,HUGO symbol from genefu object,13
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CCNB2,CCNB2,grade_3,,202705_at,genefu::sig.ggi,HUGO symbol from genefu object,14
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,UBE2S,UBE2S,grade_3,,202779_s_at,genefu::sig.ggi,HUGO symbol from genefu object,15
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CDC20,CDC20,grade_3,,202870_s_at,genefu::sig.ggi,HUGO symbol from genefu object,16
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,UBE2C,UBE2C,grade_3,,202954_at,genefu::sig.ggi,HUGO symbol from genefu object,17
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,RNASEH2A,RNASEH2A,grade_3,,203022_at,genefu::sig.ggi,HUGO symbol from genefu object,18
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,TIMELESS,TIMELESS,grade_3,,203046_s_at,genefu::sig.ggi,HUGO symbol from genefu object,19
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,SPAG5,SPAG5,grade_3,,203145_at,genefu::sig.ggi,HUGO symbol from genefu object,20
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,203213_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,21
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CDC2,CDC2,grade_3,,203214_x_at,genefu::sig.ggi,HUGO symbol from genefu object,22
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,LMNB1,LMNB1,grade_3,,203276_at,genefu::sig.ggi,HUGO symbol from genefu object,23
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MAD2L1,MAD2L1,grade_3,,203362_s_at,genefu::sig.ggi,HUGO symbol from genefu object,24
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CCNA2,CCNA2,grade_3,,203418_at,genefu::sig.ggi,HUGO symbol from genefu object,25
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,203432_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,26
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,PTTG1,PTTG1,grade_3,,203554_x_at,genefu::sig.ggi,HUGO symbol from genefu object,27
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,HMGB3,HMGB3,grade_3,,203744_at,genefu::sig.ggi,HUGO symbol from genefu object,28
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,BUB1B,BUB1B,grade_3,,203755_at,genefu::sig.ggi,HUGO symbol from genefu object,29
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,DLG7,DLG7,grade_3,,203764_at,genefu::sig.ggi,HUGO symbol from genefu object,30
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,ZWINT,ZWINT,grade_3,,204026_s_at,genefu::sig.ggi,HUGO symbol from genefu object,31
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,TRIP13,TRIP13,grade_3,,204033_at,genefu::sig.ggi,HUGO symbol from genefu object,32
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,AURKA,AURKA,grade_3,,204092_s_at,genefu::sig.ggi,HUGO symbol from genefu object,33
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KNTC2,KNTC2,grade_3,,204162_at,genefu::sig.ggi,HUGO symbol from genefu object,34
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CDK2,CDK2,grade_3,,204252_at,genefu::sig.ggi,HUGO symbol from genefu object,35
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,GTSE1,GTSE1,grade_3,,204318_s_at,genefu::sig.ggi,HUGO symbol from genefu object,36
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KIF11,KIF11,grade_3,,204444_at,genefu::sig.ggi,HUGO symbol from genefu object,37
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,EXO1,EXO1,grade_3,,204603_at,genefu::sig.ggi,HUGO symbol from genefu object,38
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,TROAP,TROAP,grade_3,,204649_at,genefu::sig.ggi,HUGO symbol from genefu object,39
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CDC25A,CDC25A,grade_3,,204695_at,genefu::sig.ggi,HUGO symbol from genefu object,40
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,NUDT1,NUDT1,grade_3,,204766_s_at,genefu::sig.ggi,HUGO symbol from genefu object,41
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,FEN1,FEN1,grade_3,,204767_s_at,genefu::sig.ggi,HUGO symbol from genefu object,42
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,FEN1,FEN1,grade_3,,204768_s_at,genefu::sig.ggi,HUGO symbol from genefu object,43
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,ESPL1,ESPL1,grade_3,,204817_at,genefu::sig.ggi,HUGO symbol from genefu object,44
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,TTK,TTK,grade_3,,204822_at,genefu::sig.ggi,HUGO symbol from genefu object,45
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MELK,MELK,grade_3,,204825_at,genefu::sig.ggi,HUGO symbol from genefu object,46
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CENPA,CENPA,grade_3,,204962_s_at,genefu::sig.ggi,HUGO symbol from genefu object,47
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CCNE2,CCNE2,grade_3,,205034_at,genefu::sig.ggi,HUGO symbol from genefu object,48
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CENPE,CENPE,grade_3,,205046_at,genefu::sig.ggi,HUGO symbol from genefu object,49
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,BLM,BLM,grade_3,,205733_at,genefu::sig.ggi,HUGO symbol from genefu object,50
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,206102_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,51
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KIF14,KIF14,grade_3,,206364_at,genefu::sig.ggi,HUGO symbol from genefu object,52
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,HMMR,HMMR,grade_3,,207165_at,genefu::sig.ggi,HUGO symbol from genefu object,53
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CENPF,CENPF,grade_3,,207828_s_at,genefu::sig.ggi,HUGO symbol from genefu object,54
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,AURKA,AURKA,grade_3,,208079_s_at,genefu::sig.ggi,HUGO symbol from genefu object,55
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CCT5,CCT5,grade_3,,208696_at,genefu::sig.ggi,HUGO symbol from genefu object,56
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,TUBA6,TUBA6,grade_3,,209251_x_at,genefu::sig.ggi,HUGO symbol from genefu object,57
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KIF2C,KIF2C,grade_3,,209408_at,genefu::sig.ggi,HUGO symbol from genefu object,58
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,AURKB,AURKB,grade_3,,209464_at,genefu::sig.ggi,HUGO symbol from genefu object,59
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,BUB1,BUB1,grade_3,,209642_at,genefu::sig.ggi,HUGO symbol from genefu object,60
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KIFC1,KIFC1,grade_3,,209680_s_at,genefu::sig.ggi,HUGO symbol from genefu object,61
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CDKN3,CDKN3,grade_3,,209714_s_at,genefu::sig.ggi,HUGO symbol from genefu object,62
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,RRM2,RRM2,grade_3,,209773_s_at,genefu::sig.ggi,HUGO symbol from genefu object,63
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,209836_x_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,64
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,TPX2,TPX2,grade_3,,210052_s_at,genefu::sig.ggi,HUGO symbol from genefu object,65
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,BIRC5,BIRC5,grade_3,,210334_x_at,genefu::sig.ggi,HUGO symbol from genefu object,66
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CDC2,CDC2,grade_3,,210559_s_at,genefu::sig.ggi,HUGO symbol from genefu object,67
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CENPA,CENPA,grade_3,,210821_x_at,genefu::sig.ggi,HUGO symbol from genefu object,68
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,211058_x_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,69
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,211072_x_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,70
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KIF2C,KIF2C,grade_3,,211519_s_at,genefu::sig.ggi,HUGO symbol from genefu object,71
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KPNA2,KPNA2,grade_3,,211762_s_at,genefu::sig.ggi,HUGO symbol from genefu object,72
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MKI67,MKI67,grade_3,,212021_s_at,genefu::sig.ggi,HUGO symbol from genefu object,73
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MKI67,MKI67,grade_3,,212022_s_at,genefu::sig.ggi,HUGO symbol from genefu object,74
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MKI67,MKI67,grade_3,,212023_s_at,genefu::sig.ggi,HUGO symbol from genefu object,75
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MCM4,MCM4,grade_3,,212141_at,genefu::sig.ggi,HUGO symbol from genefu object,76
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,212723_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,77
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,NCAPH,NCAPH,grade_3,,212949_at,genefu::sig.ggi,HUGO symbol from genefu object,78
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,213226_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,79
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,OIP5,OIP5,grade_3,,213599_at,genefu::sig.ggi,HUGO symbol from genefu object,80
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MARS,MARS,grade_3,,213671_s_at,genefu::sig.ggi,HUGO symbol from genefu object,81
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,H2AFZ,H2AFZ,grade_3,,213911_s_at,genefu::sig.ggi,HUGO symbol from genefu object,82
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,SHMT2,SHMT2,grade_3,,214096_s_at,genefu::sig.ggi,HUGO symbol from genefu object,83
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,GMPS,GMPS,grade_3,,214431_at,genefu::sig.ggi,HUGO symbol from genefu object,84
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CCNB1,CCNB1,grade_3,,214710_s_at,genefu::sig.ggi,HUGO symbol from genefu object,85
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,214804_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,86
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,C20orf24,C20ORF24,grade_3,,217835_x_at,genefu::sig.ggi,HUGO symbol from genefu object,87
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,PRC1,PRC1,grade_3,,218009_s_at,genefu::sig.ggi,HUGO symbol from genefu object,88
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,NUSAP1,NUSAP1,grade_3,,218039_at,genefu::sig.ggi,HUGO symbol from genefu object,89
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KIF4A,KIF4A,grade_3,,218355_at,genefu::sig.ggi,HUGO symbol from genefu object,90
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,C16orf61,C16ORF61,grade_3,,218447_at,genefu::sig.ggi,HUGO symbol from genefu object,91
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CEP55,CEP55,grade_3,,218542_at,genefu::sig.ggi,HUGO symbol from genefu object,92
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,ORMDL2,ORMDL2,grade_3,,218556_at,genefu::sig.ggi,HUGO symbol from genefu object,93
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,NCAPG,NCAPG,grade_3,,218662_s_at,genefu::sig.ggi,HUGO symbol from genefu object,94
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,218726_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,95
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KIF20A,KIF20A,grade_3,,218755_at,genefu::sig.ggi,HUGO symbol from genefu object,96
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MLF1IP,MLF1IP,grade_3,,218883_s_at,genefu::sig.ggi,HUGO symbol from genefu object,97
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,219000_s_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,98
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,KIF15,KIF15,grade_3,,219306_at,genefu::sig.ggi,HUGO symbol from genefu object,99
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,POLQ,POLQ,grade_3,,219510_at,genefu::sig.ggi,HUGO symbol from genefu object,100
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CENPN,CENPN,grade_3,,219555_s_at,genefu::sig.ggi,HUGO symbol from genefu object,101
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,ASPM,ASPM,grade_3,,219918_s_at,genefu::sig.ggi,HUGO symbol from genefu object,102
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,C12orf48,C12ORF48,grade_3,,220060_s_at,genefu::sig.ggi,HUGO symbol from genefu object,103
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MCM10,MCM10,grade_3,,220651_s_at,genefu::sig.ggi,HUGO symbol from genefu object,104
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CDCA3,CDCA3,grade_3,,221436_s_at,genefu::sig.ggi,HUGO symbol from genefu object,105
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CDCA8,CDCA8,grade_3,,221520_s_at,genefu::sig.ggi,HUGO symbol from genefu object,106
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,FAM64A,FAM64A,grade_3,,221591_s_at,genefu::sig.ggi,HUGO symbol from genefu object,107
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,DONSON,DONSON,grade_3,,221677_s_at,genefu::sig.ggi,HUGO symbol from genefu object,108
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,MCM4,MCM4,grade_3,,222036_s_at,genefu::sig.ggi,HUGO symbol from genefu object,109
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_3,,222039_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,110
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,RACGAP1,RACGAP1,grade_3,,222077_s_at,genefu::sig.ggi,HUGO symbol from genefu object,111
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,ESPL1,ESPL1,grade_3,,38158_at,genefu::sig.ggi,HUGO symbol from genefu object,112
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,FRY,FRY,grade_1,,204072_s_at,genefu::sig.ggi,HUGO symbol from genefu object,113
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,IFT88,IFT88,grade_1,,204703_at,genefu::sig.ggi,HUGO symbol from genefu object,114
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CX3CR1,CX3CR1,grade_1,,205898_at,genefu::sig.ggi,HUGO symbol from genefu object,115
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,STARD13,STARD13,grade_1,,213103_at,genefu::sig.ggi,HUGO symbol from genefu object,116
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,LAMB2,LAMB2,grade_1,,216264_s_at,genefu::sig.ggi,HUGO symbol from genefu object,117
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,TPT1,TPT1,grade_1,,216520_s_at,genefu::sig.ggi,HUGO symbol from genefu object,118
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,CYBRD1,CYBRD1,grade_1,,217889_s_at,genefu::sig.ggi,HUGO symbol from genefu object,119
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,SESN1,SESN1,grade_1,,218346_s_at,genefu::sig.ggi,HUGO symbol from genefu object,120
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,BBS1,BBS1,grade_1,,218471_s_at,genefu::sig.ggi,HUGO symbol from genefu object,121
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,C11orf60,C11ORF60,grade_1,,218483_s_at,genefu::sig.ggi,HUGO symbol from genefu object,122
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,PIGV,PIGV,grade_1,,219238_at,genefu::sig.ggi,HUGO symbol from genefu object,123
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_1,,219455_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,124
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,C11orf63,C11ORF63,grade_1,,220141_at,genefu::sig.ggi,HUGO symbol from genefu object,125
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,WDR19,WDR19,grade_1,,220917_s_at,genefu::sig.ggi,HUGO symbol from genefu object,126
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,SIRT3,SIRT3,grade_1,,221562_s_at,genefu::sig.ggi,HUGO symbol from genefu object,127
+GGI_128_PROBE,Genomic Grade Index implementation in genefu,,,grade_1,,221771_s_at,genefu::sig.ggi,No HUGO symbol in genefu object; cannot audit by gene symbol,128
+GENE76,Wang 76-gene distant-metastasis signature,CLN8,CLN8,ER_positive_component,-3.83,219340_s_at,genefu::sig.gene76,HUGO symbol from genefu object,1
+GENE76,Wang 76-gene distant-metastasis signature,GOLPH2,GOLM1,ER_positive_component,-3.865,217771_at,genefu::sig.gene76,HUGO symbol from genefu object,2
+GENE76,Wang 76-gene distant-metastasis signature,YIF1A,YIF1A,ER_positive_component,3.63,202418_at,genefu::sig.gene76,HUGO symbol from genefu object,3
+GENE76,Wang 76-gene distant-metastasis signature,IL18,IL18,ER_positive_component,-3.471,206295_at,genefu::sig.gene76,HUGO symbol from genefu object,4
+GENE76,Wang 76-gene distant-metastasis signature,CBX3,CBX3,ER_positive_component,3.506,201091_s_at,genefu::sig.gene76,HUGO symbol from genefu object,5
+GENE76,Wang 76-gene distant-metastasis signature,DUSP4,DUSP4,ER_positive_component,-3.476,204015_s_at,genefu::sig.gene76,HUGO symbol from genefu object,6
+GENE76,Wang 76-gene distant-metastasis signature,PPP1CC,PPP1CC,ER_positive_component,3.392,200726_at,genefu::sig.gene76,HUGO symbol from genefu object,7
+GENE76,Wang 76-gene distant-metastasis signature,ABLIM1,ABLIM1,ER_positive_component,-3.353,200965_s_at,genefu::sig.gene76,HUGO symbol from genefu object,8
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_positive_component,-3.301,210314_x_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,9
+GENE76,Wang 76-gene distant-metastasis signature,TMEM8,TMEM8,ER_positive_component,3.101,221882_s_at,genefu::sig.gene76,HUGO symbol from genefu object,10
+GENE76,Wang 76-gene distant-metastasis signature,C3,C3,ER_positive_component,-3.174,217767_at,genefu::sig.gene76,HUGO symbol from genefu object,11
+GENE76,Wang 76-gene distant-metastasis signature,NCAPG2,NCAPG2,ER_positive_component,3.083,219588_s_at,genefu::sig.gene76,HUGO symbol from genefu object,12
+GENE76,Wang 76-gene distant-metastasis signature,C11orf9,C11ORF9,ER_positive_component,3.336,204073_s_at,genefu::sig.gene76,HUGO symbol from genefu object,13
+GENE76,Wang 76-gene distant-metastasis signature,MAP4,MAP4,ER_positive_component,-3.054,212567_s_at,genefu::sig.gene76,HUGO symbol from genefu object,14
+GENE76,Wang 76-gene distant-metastasis signature,TACC2,TACC2,ER_positive_component,-3.025,211382_s_at,genefu::sig.gene76,HUGO symbol from genefu object,15
+GENE76,Wang 76-gene distant-metastasis signature,SMC4,SMC4,ER_positive_component,3.095,201663_s_at,genefu::sig.gene76,HUGO symbol from genefu object,16
+GENE76,Wang 76-gene distant-metastasis signature,OR12D2,OR12D2,ER_positive_component,-3.175,221344_at,genefu::sig.gene76,HUGO symbol from genefu object,17
+GENE76,Wang 76-gene distant-metastasis signature,ORC3L,ORC3L,ER_positive_component,-3.082,210028_s_at,genefu::sig.gene76,HUGO symbol from genefu object,18
+GENE76,Wang 76-gene distant-metastasis signature,ATAD2,ATAD2,ER_positive_component,3.058,218782_s_at,genefu::sig.gene76,HUGO symbol from genefu object,19
+GENE76,Wang 76-gene distant-metastasis signature,SMC4,SMC4,ER_positive_component,3.085,201664_at,genefu::sig.gene76,HUGO symbol from genefu object,20
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_positive_component,-2.992,219724_s_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,21
+GENE76,Wang 76-gene distant-metastasis signature,DUSP4,DUSP4,ER_positive_component,-2.791,204014_at,genefu::sig.gene76,HUGO symbol from genefu object,22
+GENE76,Wang 76-gene distant-metastasis signature,CD44,CD44,ER_positive_component,-2.948,212014_x_at,genefu::sig.gene76,HUGO symbol from genefu object,23
+GENE76,Wang 76-gene distant-metastasis signature,PLK1,PLK1,ER_positive_component,2.931,202240_at,genefu::sig.gene76,HUGO symbol from genefu object,24
+GENE76,Wang 76-gene distant-metastasis signature,CNKSR1,CNKSR1,ER_positive_component,-2.896,204740_at,genefu::sig.gene76,HUGO symbol from genefu object,25
+GENE76,Wang 76-gene distant-metastasis signature,HIST1H4H,HIST1H4H,ER_positive_component,2.924,208180_s_at,genefu::sig.gene76,HUGO symbol from genefu object,26
+GENE76,Wang 76-gene distant-metastasis signature,FEN1,FEN1,ER_positive_component,2.915,204768_s_at,genefu::sig.gene76,HUGO symbol from genefu object,27
+GENE76,Wang 76-gene distant-metastasis signature,FKBP2,FKBP2,ER_positive_component,-2.968,203391_at,genefu::sig.gene76,HUGO symbol from genefu object,28
+GENE76,Wang 76-gene distant-metastasis signature,KPNA2,KPNA2,ER_positive_component,2.824,211762_s_at,genefu::sig.gene76,HUGO symbol from genefu object,29
+GENE76,Wang 76-gene distant-metastasis signature,C1orf66,C1ORF66,ER_positive_component,-2.777,218914_at,genefu::sig.gene76,HUGO symbol from genefu object,30
+GENE76,Wang 76-gene distant-metastasis signature,GFOD2,GFOD2,ER_positive_component,-2.635,221028_s_at,genefu::sig.gene76,HUGO symbol from genefu object,31
+GENE76,Wang 76-gene distant-metastasis signature,AP2A2,AP2A2,ER_positive_component,-2.854,211779_x_at,genefu::sig.gene76,HUGO symbol from genefu object,32
+GENE76,Wang 76-gene distant-metastasis signature,MLF1IP,MLF1IP,ER_positive_component,2.842,218883_s_at,genefu::sig.gene76,HUGO symbol from genefu object,33
+GENE76,Wang 76-gene distant-metastasis signature,NEURL,NEURL,ER_positive_component,-2.835,204888_s_at,genefu::sig.gene76,HUGO symbol from genefu object,34
+GENE76,Wang 76-gene distant-metastasis signature,SUPT16H,SUPT16H,ER_positive_component,2.777,217815_at,genefu::sig.gene76,HUGO symbol from genefu object,35
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_positive_component,-2.759,201368_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,36
+GENE76,Wang 76-gene distant-metastasis signature,ARHGDIB,ARHGDIB,ER_positive_component,-2.745,201288_at,genefu::sig.gene76,HUGO symbol from genefu object,37
+GENE76,Wang 76-gene distant-metastasis signature,PSMC2,PSMC2,ER_positive_component,2.79,201068_s_at,genefu::sig.gene76,HUGO symbol from genefu object,38
+GENE76,Wang 76-gene distant-metastasis signature,ZCCHC8,ZCCHC8,ER_positive_component,2.883,218478_s_at,genefu::sig.gene76,HUGO symbol from genefu object,39
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_positive_component,-2.794,214919_s_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,40
+GENE76,Wang 76-gene distant-metastasis signature,CD44,CD44,ER_positive_component,-2.743,209835_x_at,genefu::sig.gene76,HUGO symbol from genefu object,41
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_positive_component,-2.761,217471_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,42
+GENE76,Wang 76-gene distant-metastasis signature,SLC35A1,SLC35A1,ER_positive_component,-2.831,203306_s_at,genefu::sig.gene76,HUGO symbol from genefu object,43
+GENE76,Wang 76-gene distant-metastasis signature,CCNE2,CCNE2,ER_positive_component,2.659,205034_at,genefu::sig.gene76,HUGO symbol from genefu object,44
+GENE76,Wang 76-gene distant-metastasis signature,PHF11,PHF11,ER_positive_component,-2.715,221816_s_at,genefu::sig.gene76,HUGO symbol from genefu object,45
+GENE76,Wang 76-gene distant-metastasis signature,POLQ,POLQ,ER_positive_component,2.836,219510_at,genefu::sig.gene76,HUGO symbol from genefu object,46
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_positive_component,-2.687,217102_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,47
+GENE76,Wang 76-gene distant-metastasis signature,CAPN2,CAPN2,ER_positive_component,-2.631,208683_at,genefu::sig.gene76,HUGO symbol from genefu object,48
+GENE76,Wang 76-gene distant-metastasis signature,ETV2,ETV2,ER_positive_component,-2.716,215510_at,genefu::sig.gene76,HUGO symbol from genefu object,49
+GENE76,Wang 76-gene distant-metastasis signature,UCKL1,UCKL1,ER_positive_component,2.703,218533_s_at,genefu::sig.gene76,HUGO symbol from genefu object,50
+GENE76,Wang 76-gene distant-metastasis signature,LST1,LST1,ER_positive_component,-2.641,215633_x_at,genefu::sig.gene76,HUGO symbol from genefu object,51
+GENE76,Wang 76-gene distant-metastasis signature,ACACB,ACACB,ER_positive_component,-2.686,221928_at,genefu::sig.gene76,HUGO symbol from genefu object,52
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_positive_component,-2.654,214806_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,53
+GENE76,Wang 76-gene distant-metastasis signature,EEF1A2,EEF1A2,ER_positive_component,2.695,204540_at,genefu::sig.gene76,HUGO symbol from genefu object,54
+GENE76,Wang 76-gene distant-metastasis signature,NEFL,NEFL,ER_positive_component,-2.758,221916_at,genefu::sig.gene76,HUGO symbol from genefu object,55
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_positive_component,2.702,216693_x_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,56
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_positive_component,-2.694,209500_x_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,57
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_positive_component,2.711,209524_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,58
+GENE76,Wang 76-gene distant-metastasis signature,MMP23B,MMP23B,ER_positive_component,-2.771,207118_s_at,genefu::sig.gene76,HUGO symbol from genefu object,59
+GENE76,Wang 76-gene distant-metastasis signature,GTSE1,GTSE1,ER_positive_component,2.604,211040_x_at,genefu::sig.gene76,HUGO symbol from genefu object,60
+GENE76,Wang 76-gene distant-metastasis signature,RFXDC2,RFXDC2,ER_negative_component,-3.495,218430_s_at,genefu::sig.gene76,HUGO symbol from genefu object,61
+GENE76,Wang 76-gene distant-metastasis signature,COL2A1,COL2A1,ER_negative_component,3.224,217404_s_at,genefu::sig.gene76,HUGO symbol from genefu object,62
+GENE76,Wang 76-gene distant-metastasis signature,GAS2,GAS2,ER_negative_component,-3.225,205848_at,genefu::sig.gene76,HUGO symbol from genefu object,63
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_negative_component,-3.145,214915_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,64
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_negative_component,-3.055,216010_x_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,65
+GENE76,Wang 76-gene distant-metastasis signature,MYH2,MYH2,ER_negative_component,-3.037,204631_at,genefu::sig.gene76,HUGO symbol from genefu object,66
+GENE76,Wang 76-gene distant-metastasis signature,TNFSF10,TNFSF10,ER_negative_component,-3.066,202687_s_at,genefu::sig.gene76,HUGO symbol from genefu object,67
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_negative_component,3.06,221634_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,68
+GENE76,Wang 76-gene distant-metastasis signature,GABRQ,GABRQ,ER_negative_component,-2.985,220886_at,genefu::sig.gene76,HUGO symbol from genefu object,69
+GENE76,Wang 76-gene distant-metastasis signature,PARP4,PARP4,ER_negative_component,-2.983,202239_at,genefu::sig.gene76,HUGO symbol from genefu object,70
+GENE76,Wang 76-gene distant-metastasis signature,C11orf51,C11ORF51,ER_negative_component,-3.022,204218_at,genefu::sig.gene76,HUGO symbol from genefu object,71
+GENE76,Wang 76-gene distant-metastasis signature,BCL2L14,BCL2L14,ER_negative_component,-3.054,221241_s_at,genefu::sig.gene76,HUGO symbol from genefu object,72
+GENE76,Wang 76-gene distant-metastasis signature,CEP57,CEP57,ER_negative_component,-3.006,209862_s_at,genefu::sig.gene76,HUGO symbol from genefu object,73
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_negative_component,-2.917,217019_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,74
+GENE76,Wang 76-gene distant-metastasis signature,KIAA0913,KIAA0913,ER_negative_component,-2.924,210593_at,genefu::sig.gene76,HUGO symbol from genefu object,75
+GENE76,Wang 76-gene distant-metastasis signature,,,ER_negative_component,-2.882,216103_at,genefu::sig.gene76,No HUGO symbol in genefu object; cannot audit by gene symbol,76
+ENDOPREDICT_11,EndoPredict 11-gene set,BIRC5,BIRC5,GOI,0.41,202095_s_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,1
+ENDOPREDICT_11,EndoPredict 11-gene set,RBBP8,RBBP8,GOI,-0.35,203344_s_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,2
+ENDOPREDICT_11,EndoPredict 11-gene set,UBE2C,UBE2C,GOI,0.39,202954_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,3
+ENDOPREDICT_11,EndoPredict 11-gene set,IL6ST,IL6ST,GOI,-0.31,212196_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,4
+ENDOPREDICT_11,EndoPredict 11-gene set,AZGP1,AZGP1,GOI,-0.26,209309_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,5
+ENDOPREDICT_11,EndoPredict 11-gene set,DHCR7,DHCR7,GOI,0.39,201791_s_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,6
+ENDOPREDICT_11,EndoPredict 11-gene set,MGP,MGP,GOI,-0.18,202291_s_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,7
+ENDOPREDICT_11,EndoPredict 11-gene set,STC2,STC2,GOI,-0.15,203438_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,8
+ENDOPREDICT_11,EndoPredict 11-gene set,CALM2,CALM2,REFERENCE,,207243_s_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,9
+ENDOPREDICT_11,EndoPredict 11-gene set,OAZ1,OAZ1,REFERENCE,,200077_s_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,10
+ENDOPREDICT_11,EndoPredict 11-gene set,RPL37A,RPL37A,REFERENCE,,201429_s_at,genefu::sig.endoPredict,Gene set and weights from genefu object; clinical assay calibration is not reconstructed,11
+IFNG_18,IFN-gamma-related 18-gene immune profile,STAT1,STAT1,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,1
+IFNG_18,IFN-gamma-related 18-gene immune profile,IDO1,IDO1,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,2
+IFNG_18,IFN-gamma-related 18-gene immune profile,CXCL10,CXCL10,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,3
+IFNG_18,IFN-gamma-related 18-gene immune profile,CXCL9,CXCL9,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,4
+IFNG_18,IFN-gamma-related 18-gene immune profile,HLA-DRA,HLA-DRA,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,5
+IFNG_18,IFN-gamma-related 18-gene immune profile,GZMB,GZMB,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,6
+IFNG_18,IFN-gamma-related 18-gene immune profile,IFNG,IFNG,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,7
+IFNG_18,IFN-gamma-related 18-gene immune profile,LAG3,LAG3,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,8
+IFNG_18,IFN-gamma-related 18-gene immune profile,CD8A,CD8A,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,9
+IFNG_18,IFN-gamma-related 18-gene immune profile,CCL5,CCL5,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,10
+IFNG_18,IFN-gamma-related 18-gene immune profile,CXCL13,CXCL13,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,11
+IFNG_18,IFN-gamma-related 18-gene immune profile,HLA-E,HLA-E,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,12
+IFNG_18,IFN-gamma-related 18-gene immune profile,NKG7,NKG7,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,13
+IFNG_18,IFN-gamma-related 18-gene immune profile,TIGIT,TIGIT,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,14
+IFNG_18,IFN-gamma-related 18-gene immune profile,PSMB10,PSMB10,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,15
+IFNG_18,IFN-gamma-related 18-gene immune profile,CD27,CD27,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,16
+IFNG_18,IFN-gamma-related 18-gene immune profile,CD274,CD274,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,17
+IFNG_18,IFN-gamma-related 18-gene immune profile,PDCD1LG2,PDCD1LG2,immune_response,,,manual_from_primary_publication,Manually encoded from the published IFN-gamma-related mRNA profile,18
+CYTOLYTIC_ACTIVITY_2,Cytolytic activity score,GZMA,GZMA,cytolytic_effector,,,manual_from_primary_publication,Two-gene cytolytic activity score,1
+CYTOLYTIC_ACTIVITY_2,Cytolytic activity score,PRF1,PRF1,cytolytic_effector,,,manual_from_primary_publication,Two-gene cytolytic activity score,2
