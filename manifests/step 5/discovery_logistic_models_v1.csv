@@ -1,0 +1,9 @@
+classifier_id,discovery_matrix_label,n_discovery,n_discovery_pcr,n_discovery_rd,intercept,beta,discovery_direction_sign,fit_status,score_status_values
+CYTOLYTIC_ACTIVITY_2,GSE25066_GPL96,488,99,389,-1.36895050386011,0.0351741008758306,1,fit_ok,scored_preferred_coverage
+ENDOPREDICT_11,GSE25066_GPL96,488,99,389,-1.51338297271805,1.14481848452902,1,fit_ok,scored_preferred_coverage
+GENE76,GSE25066_GPL96,488,99,389,-1.44350851130929,1.68704579356966,1,fit_ok,scored_preferred_coverage
+GGI_128_PROBE,GSE25066_GPL96,488,99,389,-1.64978935582828,0.90701900625995,1,fit_ok,scored_preferred_coverage
+IFNG_18,GSE25066_GPL96,488,99,389,-1.40085196400382,0.494108531682336,1,fit_ok,scored_preferred_coverage
+MAMMAPRINT_70,GSE25066_GPL96,488,99,389,-1.69027798661436,-2.60514826383837,-1,fit_ok,scored_low_coverage_exploratory
+ONCOTYPE_DX_21,GSE25066_GPL96,488,99,389,-1.59088428905839,1.61915460050513,1,fit_ok,scored_preferred_coverage
+PAM50,GSE25066_GPL96,488,99,389,-1.46468255839202,1.76406522818755,1,fit_ok,scored_preferred_coverage

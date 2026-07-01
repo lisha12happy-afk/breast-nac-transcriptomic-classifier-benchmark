@@ -1,0 +1,11 @@
+figure_file,exists,status,notes
+fig_auc_heatmap_v1.png,TRUE,generated,AUC heatmap generated from classifier_performance_by_dataset_v1.csv
+fig_auc_heatmap_v1.pdf,TRUE,generated,AUC heatmap generated from classifier_performance_by_dataset_v1.csv PDF version
+fig_pr_auc_heatmap_v1.png,TRUE,generated,PR-AUC minus pCR prevalence heatmap generated from classifier_performance_by_dataset_v1.csv
+fig_pr_auc_heatmap_v1.pdf,TRUE,generated,PR-AUC minus pCR prevalence heatmap generated from classifier_performance_by_dataset_v1.csv PDF version
+fig_transferability_forest_v1.png,TRUE,generated,Forest plot generated from classifier_performance_by_dataset_v1.csv
+fig_transferability_forest_v1.pdf,TRUE,generated,Forest plot generated from classifier_performance_by_dataset_v1.csv PDF version
+fig_calibration_grid_v1.png,TRUE,generated,Calibration grid generated from calibration_curve_points_v1.csv
+fig_calibration_grid_v1.pdf,TRUE,generated,Calibration grid generated from calibration_curve_points_v1.csv PDF version
+fig_failure_mode_heatmap_v1.png,TRUE,generated,Failure-mode heatmap generated from classifier_failure_mode_audit_v1.csv
+fig_failure_mode_heatmap_v1.pdf,TRUE,generated,Failure-mode heatmap generated from classifier_failure_mode_audit_v1.csv PDF version

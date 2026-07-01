@@ -1,0 +1,13 @@
+dataset_accession,matrix_label,platform,analysis_set,n_score_rows,n_finite_scores,n_missing_scores,n_samples,n_pcr,n_rd,pcr_prevalence,score_status_values
+GSE25066,GSE25066_GPL96,GPL96,core_full_benchmark,4064,4064,0,508,100,390,0.1969,scored_low_coverage_exploratory;scored_preferred_coverage
+GSE20271,GSE20271_GPL96,GPL96,core_full_benchmark,1424,1424,0,178,26,152,0.1461,scored_low_coverage_exploratory;scored_preferred_coverage
+GSE32646,GSE32646_GPL570,GPL570,core_full_benchmark,920,920,0,115,27,88,0.2348,scored_preferred_coverage
+GSE41998,GSE41998_GPL571,GPL571,core_full_benchmark,2232,2232,0,279,70,185,0.2509,scored_low_coverage_exploratory;scored_preferred_coverage
+GSE50948,GSE50948_GPL570,GPL570,core_full_benchmark,1248,1248,0,156,53,103,0.3397,scored_preferred_coverage
+GSE66305,GSE66305_GPL570,GPL570,core_full_benchmark,704,704,0,88,27,61,0.3068,scored_preferred_coverage
+GSE163882,GSE163882_GPL18573,GPL18573,core_full_benchmark,1776,1776,0,222,80,142,0.3604,scored_preferred_coverage
+GSE194040,GSE194040_GPL20078,GPL20078,large_stress_test,5232,5229,3,654,214,440,0.3272,scored_preferred_coverage
+GSE194040,GSE194040_GPL30493,GPL30493,large_stress_test,2672,2614,58,334,105,229,0.3144,scored_preferred_coverage
+GSE106977,GSE106977_GPL17586,GPL17586,limited_subtype_panel_or_gene_space,952,0,952,119,46,73,0.3866,not_scored_insufficient_coverage
+GSE109710,GSE109710_GPL24546,GPL24546,limited_subtype_panel_or_gene_space,1384,346,1038,173,103,70,0.5954,not_scored_insufficient_coverage;scored_preferred_coverage
+GSE130786,GSE130786_GPL6480,GPL6480,subtype_validation_only,880,867,13,110,47,63,0.4273,scored_preferred_coverage
