@@ -1,0 +1,297 @@
+﻿inspect_genefu_signatures_v1.R
+Working directory: . 
+Step 3 directory: manifests\step 3 
+Tarfile: manifests\step 3/genefu_2.44.0.tar.gz 
+Tarfile exists: TRUE 
+R version: R version 4.5.0 (2025-04-11 ucrt) 
+Timestamp: 2026-06-29 22:02:34 IST 
+
+
+===== pam50.rda =====
+Loaded objects: pam50 
+Object: pam50 
+Class: list 
+Dimensions:  
+List of 7
+ $ method.cor      : chr "spearman"
+ $ method.centroids: chr "mean"
+ $ std             : chr "none"
+ $ rescale.q       : num 0.05
+ $ mins            : num 5
+ $ centroids       : num [1:50, 1:5] 0.718 0.537 -0.575 -0.119 0.3 ...
+  ..- attr(*, "dimnames")=List of 2
+ $ centroids.map   :'data.frame':	50 obs. of  3 variables:
+  ..$ probe          : chr [1:50] "ACTR3B" "ANLN" "BAG1" "BCL2" ...
+  ..$ probe.centroids: chr [1:50] "ACTR3B" "ANLN" "BAG1" "BCL2" ...
+  ..$ EntrezGene.ID  : int [1:50] 57180 54443 573 596 332 644 891 898 991 990 ...
+
+===== pam50.robust.rda =====
+Loaded objects: pam50.robust 
+Object: pam50.robust 
+Class: list 
+Dimensions:  
+List of 7
+ $ method.cor      : chr "spearman"
+ $ method.centroids: chr "mean"
+ $ std             : chr "robust"
+ $ rescale.q       : num 0.05
+ $ mins            : num 5
+ $ centroids       : num [1:50, 1:5] 0.718 0.537 -0.575 -0.119 0.3 ...
+  ..- attr(*, "dimnames")=List of 2
+ $ centroids.map   :'data.frame':	50 obs. of  3 variables:
+  ..$ probe          : chr [1:50] "ACTR3B" "ANLN" "BAG1" "BCL2" ...
+  ..$ probe.centroids: chr [1:50] "ACTR3B" "ANLN" "BAG1" "BCL2" ...
+  ..$ EntrezGene.ID  : int [1:50] 57180 54443 573 596 332 644 891 898 991 990 ...
+
+===== sig.gene70.rda =====
+Loaded objects: sig.gene70 
+Object: sig.gene70 
+Class: data.frame 
+Dimensions: 70 x 9 
+Column names: probe, correlation, average.good.prognosis.profile, EntrezGene.ID, NCBI.gene.symbol, HUGO.gene.symbol, Cytoband, Alternative.symbols, Description 
+                        probe correlation average.good.prognosis.profile
+NM_003748           NM_003748   -0.420671                     0.12350000
+NM_003862           NM_003862   -0.410964                     0.05159091
+Contig32125_RC Contig32125_RC   -0.409054                     0.05409091
+U82987                 U82987   -0.407002                     0.06150000
+AB037863             AB037863   -0.402335                     0.06334091
+NM_020974           NM_020974   -0.399987                    -0.06231818
+Contig55377_RC Contig55377_RC   -0.390600                     0.05065909
+NM_003882           NM_003882   -0.384479                     0.05972727
+NM_000849           NM_000849   -0.380831                     0.02093182
+Contig48328_RC Contig48328_RC   -0.375252                    -0.08500000
+               EntrezGene.ID NCBI.gene.symbol HUGO.gene.symbol      Cytoband
+NM_003748               8659          ALDH4A1          ALDH4A1          1p36
+NM_003862               8817            FGF18            FGF18          5q34
+Contig32125_RC            NA             <NA>             <NA>          <NA>
+U82987                 27113             BBC3             BBC3 19q13.3-q13.4
+AB037863                  NA             <NA>             <NA>          <NA>
+NM_020974              57758           SCUBE2           SCUBE2       11p15.3
+Contig55377_RC        146923           RUNDC1           RUNDC1      17q21.31
+NM_003882               8840            WISP1            WISP1  8q24.1-q24.3
+NM_000849               2947            GSTM3            GSTM3        1p13.3
+Contig48328_RC        151126           ZNF533           ZNF533  2q31.2-q31.3
+                                         Alternative.symbols
+NM_003748                     ALDH4|P5CD|P5CDh|P5CDhL|P5CDhS
+NM_003862                                       FGF-18|ZFGF5
+Contig32125_RC                                          <NA>
+U82987                                   JFY1|PUMA|PUMA/JFY1
+AB037863                                                <NA>
+NM_020974      CEGP1|Cegb1|Cegf1|FLJ16792|FLJ35234|MGC133057
+Contig55377_RC                                 DKFZp761H0421
+NM_003882                         CCN4|WISP1c|WISP1i|WISP1tc
+NM_000849             GST5|GSTB|GSTM3-3|GTM3|MGC3310|MGC3704
+Contig48328_RC                                      FLJ25270
+                                              Description
+NM_003748      aldehyde dehydrogenase 4 family, member A1
+NM_003862                     fibroblast growth factor 18
+Contig32125_RC                                       <NA>
+U82987                           BCL2 binding component 3
+AB037863                                             <NA>
+NM_020974          signal peptide, CUB domain, EGF-like 2
+Contig55377_RC                    RUN domain containing 1
+NM_003882      WNT1 inducible signaling pathway protein 1
+NM_000849            glutathione S-transferase M3 (brain)
+Contig48328_RC                    zinc finger protein 533
+
+===== sig.oncotypedx.rda =====
+Loaded objects: sig.oncotypedx 
+Object: sig.oncotypedx 
+Class: data.frame 
+Dimensions: 21 x 5 
+Column names: symbol, probe.affy, EntrezGene.ID, group, weight 
+      symbol  probe.affy EntrezGene.ID         group weight
+MKI67  MKI67 212022_s_at          4288 proliferation  0.208
+AURKA  AURKA 208079_s_at          6790 proliferation  0.208
+BIRC5  BIRC5 202095_s_at           332 proliferation  0.208
+CCNB1  CCNB1 214710_s_at           891 proliferation  0.208
+MYBL2  MYBL2   201710_at          4605 proliferation  0.208
+MMP11  MMP11 203876_s_at          4320      invasion  0.050
+CTSL2  CTSL2   210074_at          1515      invasion  0.050
+GRB7    GRB7 210761_s_at          2886          her2  0.423
+ERBB2  ERBB2 216836_s_at          2064          her2  0.047
+ESR1    ESR1   205225_at          2099      estrogen -0.068
+
+===== sig.ggi.rda =====
+Loaded objects: sig.ggi 
+Object: sig.ggi 
+Class: data.frame 
+Dimensions: 128 x 9 
+Column names: probe, grade, Gb.acc, EntrezGene.ID, NCBI.gene.symbol, HUGO.gene.symbol, Cytoband, Alternative.symbols, Description 
+                  probe grade    Gb.acc EntrezGene.ID NCBI.gene.symbol
+201088_at     201088_at     3 NM_002266          3838            KPNA2
+201090_x_at 201090_x_at     3 NM_006082            NA             <NA>
+201195_s_at 201195_s_at     3  AB018009          8140           SLC7A5
+201475_x_at 201475_x_at     3 NM_004990          4141             MARS
+201524_x_at 201524_x_at     3 NM_003348          7334            UBE2N
+201584_s_at 201584_s_at     3 NM_005804         10212            DDX39
+201710_at     201710_at     3 NM_002466          4605            MYBL2
+201890_at     201890_at     3  BE966236            NA             <NA>
+202094_at     202094_at     3  AA648913           332            BIRC5
+202095_s_at 202095_s_at     3 NM_001168           332            BIRC5
+            HUGO.gene.symbol      Cytoband
+201088_at              KPNA2 17q23.1-q23.3
+201090_x_at             <NA>          <NA>
+201195_s_at           SLC7A5       16q24.3
+201475_x_at             MARS       12q13.2
+201524_x_at            UBE2N         12q22
+201584_s_at            DDX39      19p13.12
+201710_at              MYBL2       20q13.1
+201890_at               <NA>          <NA>
+202094_at              BIRC5         17q25
+202095_s_at            BIRC5         17q25
+                                 Alternative.symbols
+201088_at                  IPOA1|QIP2|RCH1|SRP1alpha
+201090_x_at                                     <NA>
+201195_s_at 4F2LC|CD98|D16S469E|E16|LAT1|MPE16|hLAT1
+201475_x_at                     FLJ35667|METRS|MTRNS
+201524_x_at         MGC131857|MGC8489|UBC13|UbcH-ben
+201584_s_at   BAT1|BAT1L|DDXL|MGC18203|MGC8417|URH49
+201710_at                        B-MYB|BMYB|MGC15600
+201890_at                                       <NA>
+202094_at                                 API4|EPR-1
+202095_s_at                               API4|EPR-1
+                                                                               Description
+201088_at                             karyopherin alpha 2 (RAG cohort 1, importin alpha 1)
+201090_x_at                                                                           <NA>
+201195_s_at solute carrier family 7 (cationic amino acid transporter, y+ system), member 5
+201475_x_at                                                     methionine-tRNA synthetase
+201524_x_at                        ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)
+201584_s_at                                      DEAD (Asp-Glu-Ala-Asp) box polypeptide 39
+201710_at                       v-myb myeloblastosis viral oncogene homolog (avian)-like 2
+201890_at                                                                             <NA>
+202094_at                                   baculoviral IAP repeat-containing 5 (survivin)
+202095_s_at                                 baculoviral IAP repeat-containing 5 (survivin)
+
+===== sig.gene76.rda =====
+Loaded objects: sig.gene76 
+Object: sig.gene76 
+Class: data.frame 
+Dimensions: 76 x 10 
+Column names: probe, std.cox.coefficient, cox.p.value, er, EntrezGene.ID, NCBI.gene.symbol, HUGO.gene.symbol, Cytoband, Alternative.symbols, Description 
+                  probe std.cox.coefficient cox.p.value er EntrezGene.ID
+219340_s_at 219340_s_at              -3.830     0.00005  1          2055
+217771_at     217771_at              -3.865     0.00001  1         51280
+202418_at     202418_at               3.630     0.00002  1         10897
+206295_at     206295_at              -3.471     0.00016  1          3606
+201091_s_at 201091_s_at               3.506     0.00008  1         11335
+204015_s_at 204015_s_at              -3.476     0.00001  1          1846
+200726_at     200726_at               3.392     0.00006  1          5501
+200965_s_at 200965_s_at              -3.353     0.00080  1          3983
+210314_x_at 210314_x_at              -3.301     0.00038  1            NA
+221882_s_at 221882_s_at               3.101     0.00033  1         58986
+            NCBI.gene.symbol HUGO.gene.symbol      Cytoband
+219340_s_at             CLN8             CLN8          8p23
+217771_at             GOLPH2           GOLPH2       9q21.33
+202418_at              YIF1A            YIF1A         11q13
+206295_at               IL18             IL18 11q22.2-q22.3
+201091_s_at             CBX3             CBX3        7p15.2
+204015_s_at            DUSP4            DUSP4      8p12-p11
+200726_at             PPP1CC           PPP1CC 12q24.1-q24.2
+200965_s_at           ABLIM1           ABLIM1         10q25
+210314_x_at             <NA>             <NA>          <NA>
+221882_s_at            TMEM8            TMEM8       16p13.3
+                                                     Alternative.symbols
+219340_s_at                                                         EPMR
+217771_at                                                  GP73|PSEC0257
+202418_at                                        54TM|FinGER7|YIF1|YIF1P
+206295_at                                IGIF|IL-18|IL-1g|IL1F4|MGC12320
+201091_s_at                                   HECH|HP1-GAMMA|HP1Hs-gamma
+204015_s_at                                          HVH2|MKP-2|MKP2|TYP
+200726_at                                                          PPP1G
+200965_s_at ABLIM|DKFZp781D0148|FLJ14564|KIAA0059|LIMAB1|LIMATIN|MGC1224
+210314_x_at                                                         <NA>
+221882_s_at                                                    M83|TMEM6
+                                                                                  Description
+219340_s_at ceroid-lipofuscinosis, neuronal 8 (epilepsy, progressive with mental retardation)
+217771_at                                                              golgi phosphoprotein 2
+202418_at                                   Yip1 interacting factor homolog A (S. cerevisiae)
+206295_at                                   interleukin 18 (interferon-gamma-inducing factor)
+201091_s_at                               chromobox homolog 3 (HP1 gamma homolog, Drosophila)
+204015_s_at                                                    dual specificity phosphatase 4
+200726_at                             protein phosphatase 1, catalytic subunit, gamma isoform
+200965_s_at                                                       actin binding LIM protein 1
+210314_x_at                                                                              <NA>
+221882_s_at                          transmembrane protein 8 (five membrane-spanning domains)
+
+===== sig.endoPredict.rda =====
+Loaded objects: sig.endoPredict 
+Object: sig.endoPredict 
+Class: data.frame 
+Dimensions: 11 x 7 
+Column names: symbol, probe.affy, EntrezGene.ID, group, weight, a, b 
+      symbol  probe.affy EntrezGene.ID     group weight    a    b
+BIRC5  BIRC5 202095_s_at           332       GOI   0.41 0.94 -3.8
+RBBP8  RBBP8 203344_s_at          5932       GOI  -0.35 0.71 -0.9
+UBE2C  UBE2C   202954_at         11065       GOI   0.39 0.79 -1.4
+IL6ST  IL6ST   212196_at          3572       GOI  -0.31 0.81 -5.0
+AZGP1  AZGP1   209309_at           563       GOI  -0.26 0.67 -0.8
+DHCR7  DHCR7 201791_s_at          1717       GOI   0.39 0.89 -4.4
+MGP      MGP 202291_s_at          4256       GOI  -0.18 0.49  4.3
+STC2    STC2   203438_at          8614       GOI  -0.15 0.83 -3.6
+CALM2  CALM2 207243_s_at           805 REFERENCE     NA   NA   NA
+OAZ1    OAZ1 200077_s_at          4946 REFERENCE     NA   NA   NA
+
+===== sig.tamr13.rda =====
+Loaded objects: sig.tamr13 
+Object: sig.tamr13 
+Class: list 
+Dimensions:  
+List of 11
+ $ pclust.79 : chr [1:7, 1:3] "223315_at" "225481_at" "225464_at" "209869_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num -0.84
+ $ pclust.148: chr [1:45, 1:3] "222608_s_at" "202870_s_at" "228273_at" "204822_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num 0.92
+ $ pclust.112: chr [1:14, 1:3] "209189_at" "202768_at" "201693_s_at" "201041_s_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num -0.89
+ $ pclust.120: chr [1:38, 1:3] "201291_s_at" "201292_at" "223381_at" "219918_s_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num 0.77
+ $ pclust.375: chr [1:8, 1:3] "223395_at" "208944_at" "204897_at" "217767_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num -0.67
+ $ pclust.201: chr [1:36, 1:3] "213906_at" "222740_at" "218009_s_at" "218782_s_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num 0.87
+ $ pclust.784: chr [1:7, 1:3] "225502_at" "223322_at" "232843_s_at" "228442_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num -0.99
+ $ pclust.859: chr [1:21, 1:3] "210139_s_at" "212423_at" "214761_at" "232090_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num -0.79
+ $ pclust.231: chr [1:26, 1:3] "209541_at" "209540_at" "209763_at" "208335_s_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num -0.85
+ $ pclust.110: chr [1:30, 1:3] "222722_at" "228750_at" "212865_s_at" "204719_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num -0.7
+ $ pclust.337: chr [1:7, 1:3] "217889_s_at" "222453_at" "226594_at" "202962_at" ...
+  ..- attr(*, "dimnames")=List of 2
+  ..- attr(*, "coefficient")= num -0.69
+
+Session info:
+R version 4.5.0 (2025-04-11 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8 
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Europe/Dublin
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.5.0

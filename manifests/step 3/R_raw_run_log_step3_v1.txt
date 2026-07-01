@@ -1,0 +1,92 @@
+﻿build_classifier_coverage_audit_v1.R
+Project directory: . 
+Step 2 directory: ./manifests/step 2 
+Step 3 directory: ./manifests/step 3 
+R version: R version 4.5.0 (2025-04-11 ucrt) 
+Timestamp: 2026-06-29 22:09:43 IST 
+
+Package data.table available: TRUE 
+
+Input files:
+gene_availability_file exists: TRUE 
+expression_audit_file exists: TRUE 
+genefu_tarball exists: TRUE 
+
+Loaded gene availability rows: 65636 
+Matrix columns: GSE25066_GPL96, GSE20271_GPL96, GSE32646_GPL570, GSE41998_GPL571, GSE50948_GPL570, GSE66305_GPL570, GSE163882_GPL18573, GSE194040_GPL20078, GSE194040_GPL30493, GSE106977_GPL17586, GSE109710_GPL24546, GSE130786_GPL6480 
+Loaded expression audit rows: 12 
+
+Extracting genefu signature objects from source tarball...
+Wrote: ./manifests/step 3/classifier_dictionary_v1.csv rows: 12 
+Wrote: ./manifests/step 3/classifier_gene_lists_v1.csv rows: 376 
+Wrote: ./manifests/step 3/classifier_gene_coverage_v1.csv rows: 100 
+Wrote: ./manifests/step 3/classifier_reproducibility_risk_v1.csv rows: 12 
+Wrote: ./manifests/step 3/classifier_coverage_summary_v1.csv rows: 8 
+Wrote: ./manifests/step 3/classifier_coverage_by_analysis_set_v1.csv rows: 32 
+Wrote: ./manifests/step 3/classifier_selection_decision_v1.md 
+Wrote: ./manifests/step 3/R_session_info_step3_v1.txt 
+
+Classifier coverage summary:
+Key: <classifier_id, classifier_name>
+          classifier_id                               classifier_name
+                 <char>                                        <char>
+1: CYTOLYTIC_ACTIVITY_2                      Cytolytic activity score
+2:       ENDOPREDICT_11                       EndoPredict 11-gene set
+3:               GENE76     Wang 76-gene distant-metastasis signature
+4:        GGI_128_PROBE  Genomic Grade Index implementation in genefu
+5:              IFNG_18      IFN-gamma-related 18-gene immune profile
+6:        MAMMAPRINT_70                MammaPrint / 70-gene signature
+7:       ONCOTYPE_DX_21 Oncotype DX 21-gene recurrence score gene set
+8:                PAM50            PAM50 intrinsic subtype classifier
+   n_matrices_audited min_coverage_pct median_coverage_pct n_matrices_excellent
+                <int>            <num>               <num>                <int>
+1:                 12                0               100.0                   10
+2:                 12                0               100.0                    9
+3:                 12                0                84.5                    0
+4:                 12                0                90.9                    0
+5:                 12                0               100.0                    7
+6:                 12                0                82.4                    0
+7:                 12                0               100.0                   11
+8:                 12                0                96.0                    7
+   n_matrices_usable_or_better
+                         <int>
+1:                          10
+2:                          10
+3:                          10
+4:                          10
+5:                          10
+6:                           7
+7:                          11
+8:                          11
+                                                                  matrices_below_80pct
+                                                                                <char>
+1:                                               GSE106977_GPL17586;GSE109710_GPL24546
+2:                                               GSE106977_GPL17586;GSE109710_GPL24546
+3:                                               GSE106977_GPL17586;GSE109710_GPL24546
+4:                                               GSE106977_GPL17586;GSE109710_GPL24546
+5:                                               GSE106977_GPL17586;GSE109710_GPL24546
+6: GSE106977_GPL17586;GSE109710_GPL24546;GSE20271_GPL96;GSE25066_GPL96;GSE41998_GPL571
+7:                                                                  GSE106977_GPL17586
+8:                                                                  GSE106977_GPL17586
+   n_source_rows_total n_source_rows_with_harmonized_gene_symbol
+                 <int>                                     <int>
+1:                   2                                         2
+2:                  11                                        11
+3:                  76                                        61
+4:                 128                                       112
+5:                  18                                        18
+6:                  70                                        55
+7:                  21                                        21
+8:                  50                                        50
+   n_unique_harmonized_genes
+                       <int>
+1:                         2
+2:                        11
+3:                        58
+4:                        99
+5:                        18
+6:                        51
+7:                        21
+8:                        50
+
+Done.
