@@ -1,0 +1,46 @@
+[2026-06-29 21:25:26] repair_start R version 4.5.0 (2025-04-11 ucrt)
+[2026-06-29 21:25:26] dataset_start GSE25066 GPL96
+[2026-06-29 21:25:27] dataset_done GSE25066 GPL96 matched 508 genes 13884 full yes subtype no
+[2026-06-29 21:25:27] dataset_start GSE20271 GPL96
+[2026-06-29 21:25:27] dataset_done GSE20271 GPL96 matched 178 genes 13884 full yes subtype no
+[2026-06-29 21:25:27] dataset_start GSE32646 GPL570
+[2026-06-29 21:25:28] dataset_done GSE32646 GPL570 matched 115 genes 22802 full yes subtype yes
+[2026-06-29 21:25:28] dataset_start GSE41998 GPL571
+[2026-06-29 21:25:29] dataset_done GSE41998 GPL571 matched 279 genes 13884 full yes subtype no
+[2026-06-29 21:25:29] dataset_start GSE50948 GPL570
+[2026-06-29 21:25:30] dataset_done GSE50948 GPL570 matched 156 genes 22802 full yes subtype yes
+[2026-06-29 21:25:30] dataset_start GSE66305 GPL570
+[2026-06-29 21:25:31] dataset_done GSE66305 GPL570 matched 88 genes 22802 full yes subtype yes
+[2026-06-29 21:25:31] dataset_start GSE163882 GPL18573
+[2026-06-29 21:25:31] download_start GSE163882_GPL18573_plain https://ftp.ncbi.nlm.nih.gov/geo/series/GSE163nnn/GSE163882/suppl/GSE163882_all.data.tpms_222Samples.csv.gz
+[2026-06-29 21:25:34] download_done GSE163882_GPL18573_plain 8752814 bytes
+[2026-06-29 21:29:07] dataset_done GSE163882 GPL18573 matched 222 genes 58201 full yes subtype no
+[2026-06-29 21:29:07] dataset_start GSE194040 GPL20078
+[2026-06-29 21:29:07] download_start GSE194040_GPL20078_plain https://ftp.ncbi.nlm.nih.gov/geo/series/GSE194nnn/GSE194040/suppl/GSE194040_ISPY2ResID_AgilentGeneExp_990_FrshFrzn_GPL20078_ProbeLevel_n654.txt.gz
+[2026-06-29 21:29:24] download_done GSE194040_GPL20078_plain 46348555 bytes
+[2026-06-29 21:30:19] download_start GPL20078_platform https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL20nnn/GPL20078/soft/GPL20078_family.soft.gz
+[2026-06-29 21:30:41] download_done GPL20078_platform 95391575 bytes
+[2026-06-29 21:30:41] platform_map_stream GPL20078 id 1 symbol 2 targets 31195
+[2026-06-29 21:33:02] dataset_done GSE194040 GPL20078 matched 654 genes 21458 full stress_test_only subtype yes
+[2026-06-29 21:33:02] dataset_start GSE194040 GPL30493
+[2026-06-29 21:33:02] download_start GSE194040_GPL30493_plain https://ftp.ncbi.nlm.nih.gov/geo/series/GSE194nnn/GSE194040/suppl/GSE194040_ISPY2ResID_AgilentGeneExp_990_FrshFrzn_GPL30493.wasGPL16233_ProbeLevel_n334.txt.gz
+[2026-06-29 21:33:09] download_done GSE194040_GPL30493_plain 30018266 bytes
+[2026-06-29 21:34:17] download_start GPL30493_platform https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL30nnn/GPL30493/soft/GPL30493_family.soft.gz
+[2026-06-29 21:34:20] download_done GPL30493_platform 6310811 bytes
+[2026-06-29 21:34:20] platform_map_stream GPL30493 id 1 symbol 2 targets 39797
+[2026-06-29 21:37:11] dataset_done GSE194040 GPL30493 matched 334 genes 20804 full stress_test_only subtype yes
+[2026-06-29 21:37:11] dataset_start GSE106977 GPL17586
+[2026-06-29 21:37:12] dataset_done GSE106977 GPL17586 matched 119 genes 1621 full no subtype limited_gene_space_review_needed
+[2026-06-29 21:37:12] dataset_start GSE109710 GPL24546
+[2026-06-29 21:37:12] download_start GSE109710_GPL24546_plain https://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109710/suppl/GSE109710_raw_data.txt.gz
+[2026-06-29 21:37:13] download_done GSE109710_GPL24546_plain 215027 bytes
+[2026-06-29 21:37:16] download_start GPL24546_platform https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL24nnn/GPL24546/soft/GPL24546_family.soft.gz
+[2026-06-29 21:37:17] download_done GPL24546_platform 1468096 bytes
+[2026-06-29 21:37:17] platform_map_stream GPL24546 id 1 symbol 2 targets 5
+[2026-06-29 21:37:17] dataset_done GSE109710 GPL24546 matched 173 genes 810 full no subtype yes_limited_panel_only
+[2026-06-29 21:37:17] dataset_start GSE130786 GPL6480
+[2026-06-29 21:37:18] download_start GPL6480_platform https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL6nnn/GPL6480/annot/GPL6480.annot.gz
+[2026-06-29 21:37:21] download_done GPL6480_platform 7380104 bytes
+[2026-06-29 21:37:21] platform_map_stream GPL6480 id 1 symbol 3 targets 41000
+[2026-06-29 21:40:03] dataset_done GSE130786 GPL6480 matched 110 genes 19542 full no subtype yes
+[2026-06-29 21:40:40] repair_done
