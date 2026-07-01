@@ -1,0 +1,106 @@
+﻿build_classifier_scores_step4_v1.R
+Project directory: . 
+Step 1 directory: ./manifests/step 1 
+Step 2 directory: ./manifests/step 2 
+Step 3 directory: ./manifests/step 3 
+Step 4 directory: ./manifests/step 4 
+R version: R version 4.5.0 (2025-04-11 ucrt) 
+Timestamp: 2026-06-29 23:18:17 IST 
+
+
+Input file check:
+sample_manifest TRUE ./manifests/step 1/analysis_ready_manifest_v1.csv 
+expression_audit TRUE ./manifests/step 2/expression_matrix_audit_v1.csv 
+classifier_dictionary TRUE ./manifests/step 3/classifier_dictionary_v1.csv 
+genefu_tarball TRUE ./manifests/step 3/genefu_2.44.0.tar.gz 
+
+Loaded rows:
+sample_manifest: 2936 
+expression_audit: 12 
+classifier_dictionary: 12 
+Wrote classifier_scoring_spec_v1.csv rows: 8 
+
+[dataset_start] GSE25066_GPL96 GSE25066 GPL96 
+[download_cache_hit] GSE25066_GPL96_series_matrix 61627399 bytes ./manifests/step 4/download_cache/GSE25066_GPL96_series_matrix.gz 
+[matrix_fread_start] GSE25066_GPL96 skip 89 
+[matrix_fread_done] GSE25066_GPL96 features 22283 samples 508 
+[dataset_done] GSE25066_GPL96 
+
+[dataset_start] GSE20271_GPL96 GSE20271 GPL96 
+[download_cache_hit] GSE20271_GPL96_series_matrix 13886248 bytes ./manifests/step 4/download_cache/GSE20271_GPL96_series_matrix.gz 
+[matrix_fread_start] GSE20271_GPL96 skip 89 
+[matrix_fread_done] GSE20271_GPL96 features 22283 samples 178 
+[dataset_done] GSE20271_GPL96 
+
+[dataset_start] GSE32646_GPL570 GSE32646 GPL570 
+[download_cache_hit] GSE32646_GPL570_series_matrix 34762865 bytes ./manifests/step 4/download_cache/GSE32646_GPL570_series_matrix.gz 
+[matrix_fread_start] GSE32646_GPL570 skip 82 
+[matrix_fread_done] GSE32646_GPL570 features 54613 samples 115 
+[dataset_done] GSE32646_GPL570 
+
+[dataset_start] GSE41998_GPL571 GSE41998 GPL571 
+[download_cache_hit] GSE41998_GPL571_series_matrix 13406899 bytes ./manifests/step 4/download_cache/GSE41998_GPL571_series_matrix.gz 
+[matrix_fread_start] GSE41998_GPL571 skip 73 
+[matrix_fread_done] GSE41998_GPL571 features 22277 samples 279 
+[dataset_done] GSE41998_GPL571 
+
+[dataset_start] GSE50948_GPL570 GSE50948 GPL570 
+[download_cache_hit] GSE50948_GPL570_series_matrix 46587896 bytes ./manifests/step 4/download_cache/GSE50948_GPL570_series_matrix.gz 
+[matrix_fread_start] GSE50948_GPL570 skip 88 
+[matrix_fread_done] GSE50948_GPL570 features 54675 samples 156 
+[dataset_done] GSE50948_GPL570 
+
+[dataset_start] GSE66305_GPL570 GSE66305 GPL570 
+[download_cache_hit] GSE66305_GPL570_series_matrix 16185251 bytes ./manifests/step 4/download_cache/GSE66305_GPL570_series_matrix.gz 
+[matrix_fread_start] GSE66305_GPL570 skip 81 
+[matrix_fread_done] GSE66305_GPL570 features 54675 samples 88 
+[dataset_done] GSE66305_GPL570 
+
+[dataset_start] GSE163882_GPL18573 GSE163882 GPL18573 
+[download_cache_hit] GSE163882_GPL18573_supp_matrix 8752814 bytes ./manifests/step 4/download_cache/GSE163882_GPL18573_supp_matrix.gz 
+[supp_fread_start] GSE163882_GPL18573 
+[supp_fread_done] GSE163882_GPL18573 features 60279 samples 222 
+[dataset_done] GSE163882_GPL18573 
+
+[dataset_start] GSE194040_GPL20078 GSE194040 GPL20078 
+[download_cache_hit] GSE194040_GPL20078_supp_matrix 46348555 bytes ./manifests/step 4/download_cache/GSE194040_GPL20078_supp_matrix.gz 
+[supp_fread_start] GSE194040_GPL20078 
+[supp_fread_done] GSE194040_GPL20078 features 32146 samples 654 
+[dataset_done] GSE194040_GPL20078 
+
+[dataset_start] GSE194040_GPL30493 GSE194040 GPL30493 
+[download_cache_hit] GSE194040_GPL30493_supp_matrix 30018266 bytes ./manifests/step 4/download_cache/GSE194040_GPL30493_supp_matrix.gz 
+[supp_fread_start] GSE194040_GPL30493 
+[supp_fread_done] GSE194040_GPL30493 features 40793 samples 334 
+[dataset_done] GSE194040_GPL30493 
+
+[dataset_start] GSE106977_GPL17586 GSE106977 GPL17586 
+[download_cache_hit] GSE106977_GPL17586_series_matrix 32707258 bytes ./manifests/step 4/download_cache/GSE106977_GPL17586_series_matrix.gz 
+[matrix_fread_start] GSE106977_GPL17586 skip 82 
+[matrix_fread_done] GSE106977_GPL17586 features 70523 samples 119 
+[dataset_done] GSE106977_GPL17586 
+
+[dataset_start] GSE109710_GPL24546 GSE109710 GPL24546 
+[download_cache_hit] GSE109710_GPL24546_supp_matrix 215027 bytes ./manifests/step 4/download_cache/GSE109710_GPL24546_supp_matrix.gz 
+[supp_fread_start] GSE109710_GPL24546 
+[supp_fread_done] GSE109710_GPL24546 features 815 samples 173 
+[dataset_done] GSE109710_GPL24546 
+
+[dataset_start] GSE130786_GPL6480 GSE130786 GPL6480 
+[download_cache_hit] GSE130786_GPL6480_series_matrix 13299031 bytes ./manifests/step 4/download_cache/GSE130786_GPL6480_series_matrix.gz 
+[matrix_fread_start] GSE130786_GPL6480 skip 87 
+[matrix_fread_done] GSE130786_GPL6480 features 41000 samples 110 
+[dataset_done] GSE130786_GPL6480 
+
+Output rows:
+dataset_preprocessing_decisions_v1.csv: 12 
+sample_score_match_qc_v1.csv: 2936 
+gene_level_matrix_qc_v1.csv: 96 
+classifier_score_matrix_v1.csv: 23488 
+classifier_score_qc_v1.csv: 96 
+pam50_subtype_assignments_v1.csv: 2817 
+classifier_score_errors_v1.csv: 0 
+
+Session info written.
+
+Done without dataset-level scoring errors.
