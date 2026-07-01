@@ -1,0 +1,4 @@
+figure_file,exists,status,notes
+fig_sensitivity_rank_shift_v1.pdf,TRUE,generated,Generated from sensitivity_auc_summary_v1.csv
+fig_subtype_auc_heatmap_v1.pdf,TRUE,generated,Generated from subtype_sensitivity_summary_v1.csv
+fig_calibration_failure_summary_v1.pdf,TRUE,generated,Generated from calibration_failure_summary_v1.csv
